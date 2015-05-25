@@ -6891,4 +6891,9 @@ p {
   section#contact {
     padding-bottom: 100px;
   }
+  #portfolio-design,
+  #portfolio-code,
+  #portfolio-photo {
+    opacity: 1;
+  }
 }
