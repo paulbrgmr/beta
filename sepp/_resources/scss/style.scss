@@ -79,6 +79,22 @@ p {
 .info {
     font-size: $font-size-large - 1;
     font-weight: 400;
+    a {
+        color: $gray-dark;
+        &:hover {
+            text-decoration: none;
+            color: $gray-dark;
+        }
+    }
+}
+
+.slick-slider {
+    background-color: #f5f5f5;
+}
+
+.year-date {
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 @media (min-width: $screen-sm-min) {
