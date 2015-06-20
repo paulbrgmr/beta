@@ -205,7 +205,7 @@ footer {
     footer {
         text-align: center;
         &.text-right {
-            text-align: center;
+            text-align: center !important;
         }
     }
 }
