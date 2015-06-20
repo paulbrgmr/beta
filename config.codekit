@@ -4838,15 +4838,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/head.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/head.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/sepp\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
