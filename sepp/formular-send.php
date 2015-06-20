@@ -83,8 +83,12 @@ if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
     }
 ?>
 
-        <form class="form-horizontal disabled" role="form" method="post" action="kontakt.html">
-            <h1></h1>
+        <form class="form-horizontal" role="form" method="post" action="kontakt.html">
+            <div class="form-group">
+                <div class="col-sm-10 col-sm-offset-2">
+                    <?php echo $result; ?>  
+                </div>
+            </div>
             <div class="form-group">
                 <label for="name" class="col-sm-2 control-label">Name</label>
                 <div class="col-sm-10">
@@ -104,11 +108,6 @@ if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
                 <div class="col-sm-10">
                     <textarea class="form-control" rows="4" name="message"><?php echo htmlspecialchars($_POST['message']);?></textarea>
                     <?php echo "<p class='text-danger'>$errMessage</p>";?>
-                </div>
-            </div>
-            <div class="form-group">
-                <div class="col-sm-10 col-sm-offset-2">
-                    <?php echo $result; ?>  
                 </div>
             </div>
         </form>
