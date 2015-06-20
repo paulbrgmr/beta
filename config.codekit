@@ -3298,464 +3298,464 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/sepp\/_resources\/css\/style.css": {
+	"\/seppi\/_resources\/css\/style.css": {
 		"fileType": 16,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/css\/style.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/css\/style.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/sepp\/_resources\/img\/bg.jpg": {
+	"\/seppi\/_resources\/img\/bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 25137,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/bg.jpg",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/bg.jpg",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/bg.jpg",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/chronik\/icon_chronik.png": {
+	"\/seppi\/_resources\/img\/chronik\/icon_chronik.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3254,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/chronik\/icon_chronik.png",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/chronik\/icon_chronik.png",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/chronik\/icon_chronik.png",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/chronik\/icon_chronik.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/fotos\/fasching12.jpg": {
+	"\/seppi\/_resources\/img\/fotos\/fasching12.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 21237,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/fasching12.jpg",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/fasching12.jpg",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/fotos\/fasching12.jpg",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/fotos\/fasching12.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/fotos\/icon_fotos.png": {
+	"\/seppi\/_resources\/img\/fotos\/icon_fotos.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2691,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/icon_fotos.png",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/icon_fotos.png",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/fotos\/icon_fotos.png",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/fotos\/icon_fotos.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/fotos\/maibaum13.jpg": {
+	"\/seppi\/_resources\/img\/fotos\/maibaum13.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 30755,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/maibaum13.jpg",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/maibaum13.jpg",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/fotos\/maibaum13.jpg",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/fotos\/maibaum13.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/fotos\/maibaumfiguren.jpg": {
+	"\/seppi\/_resources\/img\/fotos\/maibaumfiguren.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 34370,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/maibaumfiguren.jpg",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/maibaumfiguren.jpg",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/fotos\/maibaumfiguren.jpg",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/fotos\/maibaumfiguren.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/fotos\/weinfest11.jpg": {
+	"\/seppi\/_resources\/img\/fotos\/weinfest11.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 17323,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/weinfest11.jpg",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/weinfest11.jpg",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/fotos\/weinfest11.jpg",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/fotos\/weinfest11.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/fotos\/weinfest12.jpg": {
+	"\/seppi\/_resources\/img\/fotos\/weinfest12.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 20216,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/weinfest12.jpg",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/weinfest12.jpg",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/fotos\/weinfest12.jpg",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/fotos\/weinfest12.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/fotos\/weinfest13.jpg": {
+	"\/seppi\/_resources\/img\/fotos\/weinfest13.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 17837,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/weinfest13.jpg",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/weinfest13.jpg",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/fotos\/weinfest13.jpg",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/fotos\/weinfest13.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/header-mobile.png": {
+	"\/seppi\/_resources\/img\/header-mobile.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 34178,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/header-mobile.png",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/header-mobile.png",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/header-mobile.png",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/header-mobile.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/header.png": {
+	"\/seppi\/_resources\/img\/header.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 34178,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/header.png",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/header.png",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/header.png",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/header.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/home\/add-member.png": {
+	"\/seppi\/_resources\/img\/home\/add-member.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1278,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/home\/add-member.png",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/home\/add-member.png",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/home\/add-member.png",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/home\/add-member.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/home\/calendar.png": {
+	"\/seppi\/_resources\/img\/home\/calendar.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1414,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/home\/calendar.png",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/home\/calendar.png",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/home\/calendar.png",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/home\/calendar.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/home\/comment.png": {
+	"\/seppi\/_resources\/img\/home\/comment.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 558,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/home\/comment.png",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/home\/comment.png",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/home\/comment.png",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/home\/comment.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/impressum\/icon_impressum.png": {
+	"\/seppi\/_resources\/img\/impressum\/icon_impressum.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2747,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/impressum\/icon_impressum.png",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/impressum\/icon_impressum.png",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/impressum\/icon_impressum.png",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/impressum\/icon_impressum.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/kontakt\/icon_kontakt.png": {
+	"\/seppi\/_resources\/img\/kontakt\/icon_kontakt.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3913,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/kontakt\/icon_kontakt.png",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/kontakt\/icon_kontakt.png",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/kontakt\/icon_kontakt.png",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/kontakt\/icon_kontakt.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/slick-slider\/jubilaum.png": {
+	"\/seppi\/_resources\/img\/slick-slider\/jubilaum.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 82694,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/slick-slider\/jubilaum.png",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/slick-slider\/jubilaum.png",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/slick-slider\/jubilaum.png",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/slick-slider\/jubilaum.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/slick-slider\/weinzeit.png": {
+	"\/seppi\/_resources\/img\/slick-slider\/weinzeit.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 204203,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/slick-slider\/weinzeit.png",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/slick-slider\/weinzeit.png",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/slick-slider\/weinzeit.png",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/slick-slider\/weinzeit.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/slick-slider\/welcome.png": {
+	"\/seppi\/_resources\/img\/slick-slider\/welcome.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 76603,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/slick-slider\/welcome.png",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/slick-slider\/welcome.png",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/slick-slider\/welcome.png",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/slick-slider\/welcome.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/termine\/15-Weinfest.jpg": {
+	"\/seppi\/_resources\/img\/termine\/15-Weinfest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 91727,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/termine\/15-Weinfest.jpg",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/termine\/15-Weinfest.jpg",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/termine\/15-Weinfest.jpg",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/termine\/15-Weinfest.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/termine\/herbstfest.jpg": {
+	"\/seppi\/_resources\/img\/termine\/herbstfest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 32031,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/termine\/herbstfest.jpg",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/termine\/herbstfest.jpg",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/termine\/herbstfest.jpg",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/termine\/herbstfest.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/termine\/icon_termine.png": {
+	"\/seppi\/_resources\/img\/termine\/icon_termine.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2691,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/termine\/icon_termine.png",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/termine\/icon_termine.png",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/termine\/icon_termine.png",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/termine\/icon_termine.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/verein\/icon_verein.png": {
+	"\/seppi\/_resources\/img\/verein\/icon_verein.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2454,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/verein\/icon_verein.png",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/verein\/icon_verein.png",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/verein\/icon_verein.png",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/verein\/icon_verein.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/verein\/vorstandschaft.jpg": {
+	"\/seppi\/_resources\/img\/verein\/vorstandschaft.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 506694,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/verein\/vorstandschaft.jpg",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/verein\/vorstandschaft.jpg",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/img\/verein\/vorstandschaft.jpg",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/img\/verein\/vorstandschaft.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/js\/own.js": {
+	"\/seppi\/_resources\/js\/own.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/js\/own.js",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/js\/min\/own-min.js",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/js\/own.js",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/js\/min\/own-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
-	"\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap-sprockets.js": {
+	"\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap-sprockets.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap-sprockets.js",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/min\/bootstrap-sprockets-min.js",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap-sprockets.js",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/min\/bootstrap-sprockets-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap.js": {
+	"\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap.js",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/min\/bootstrap-min.js",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap.js",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/min\/bootstrap-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap.min.js": {
+	"\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap.min.js",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/min\/bootstrap.min-min.js",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap.min.js",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/min\/bootstrap.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/affix.js": {
+	"\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/affix.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/affix.js",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/affix-min.js",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/affix.js",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/affix-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/alert.js": {
+	"\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/alert.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/alert.js",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/alert-min.js",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/alert.js",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/alert-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/button.js": {
+	"\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/button.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/button.js",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/button-min.js",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/button.js",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/button-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/carousel.js": {
+	"\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/carousel.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/carousel.js",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/carousel-min.js",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/carousel.js",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/carousel-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/collapse.js": {
+	"\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/collapse.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/collapse.js",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/collapse-min.js",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/collapse.js",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/collapse-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/dropdown.js": {
+	"\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/dropdown.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/dropdown.js",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/dropdown-min.js",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/dropdown.js",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/dropdown-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/modal.js": {
+	"\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/modal.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/modal.js",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/modal-min.js",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/modal.js",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/modal-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/popover.js": {
+	"\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/popover.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/popover.js",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/popover-min.js",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/popover.js",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/popover-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/scrollspy.js": {
+	"\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/scrollspy.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/scrollspy.js",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/scrollspy-min.js",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/scrollspy.js",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/scrollspy-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/tab.js": {
+	"\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/tab.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/tab.js",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/tab-min.js",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/tab.js",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/tab-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/tooltip.js": {
+	"\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/tooltip.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/tooltip.js",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/tooltip-min.js",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/tooltip.js",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/tooltip-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/transition.js": {
+	"\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/transition.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/transition.js",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/transition-min.js",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/transition.js",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/javascripts\/bootstrap\/min\/transition-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/_bootstrap-compass.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/_bootstrap-compass.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/_bootstrap-compass.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/css\/_bootstrap-compass.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/_bootstrap-compass.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/css\/_bootstrap-compass.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3763,15 +3763,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/_bootstrap-mincer.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/_bootstrap-mincer.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/_bootstrap-mincer.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/css\/_bootstrap-mincer.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/_bootstrap-mincer.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/css\/_bootstrap-mincer.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3779,15 +3779,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/_bootstrap-sprockets.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/_bootstrap-sprockets.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/_bootstrap-sprockets.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/css\/_bootstrap-sprockets.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/_bootstrap-sprockets.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/css\/_bootstrap-sprockets.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3795,15 +3795,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/_bootstrap.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/_bootstrap.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/_bootstrap.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/css\/_bootstrap.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/_bootstrap.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/css\/_bootstrap.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3811,15 +3811,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_alerts.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_alerts.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_alerts.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_alerts.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_alerts.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_alerts.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3827,15 +3827,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_badges.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_badges.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_badges.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_badges.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_badges.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_badges.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3843,15 +3843,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_breadcrumbs.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_breadcrumbs.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_breadcrumbs.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_breadcrumbs.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_breadcrumbs.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_breadcrumbs.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3859,15 +3859,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_button-groups.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_button-groups.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_button-groups.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_button-groups.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_button-groups.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_button-groups.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3875,15 +3875,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_buttons.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_buttons.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_buttons.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_buttons.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_buttons.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_buttons.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3891,15 +3891,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_carousel.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_carousel.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_carousel.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_carousel.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_carousel.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_carousel.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3907,15 +3907,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_close.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_close.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_close.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_close.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_close.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_close.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3923,15 +3923,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_code.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_code.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_code.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_code.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_code.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_code.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3939,15 +3939,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_component-animations.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_component-animations.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_component-animations.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_component-animations.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_component-animations.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_component-animations.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3955,15 +3955,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_dropdowns.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_dropdowns.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_dropdowns.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_dropdowns.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_dropdowns.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_dropdowns.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3971,15 +3971,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_forms.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_forms.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_forms.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_forms.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_forms.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_forms.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3987,15 +3987,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_glyphicons.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_glyphicons.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_glyphicons.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_glyphicons.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_glyphicons.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_glyphicons.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4003,15 +4003,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_grid.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_grid.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_grid.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_grid.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_grid.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_grid.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4019,15 +4019,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_input-groups.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_input-groups.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_input-groups.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_input-groups.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_input-groups.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_input-groups.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4035,15 +4035,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_jumbotron.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_jumbotron.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_jumbotron.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_jumbotron.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_jumbotron.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_jumbotron.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4051,15 +4051,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_labels.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_labels.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_labels.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_labels.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_labels.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_labels.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4067,15 +4067,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_list-group.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_list-group.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_list-group.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_list-group.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_list-group.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_list-group.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4083,15 +4083,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_media.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_media.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_media.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_media.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_media.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_media.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4099,15 +4099,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_mixins.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_mixins.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_mixins.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_mixins.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_mixins.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_mixins.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4115,15 +4115,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_modals.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_modals.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_modals.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_modals.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_modals.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_modals.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4131,15 +4131,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_navbar.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_navbar.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_navbar.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_navbar.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_navbar.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_navbar.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4147,15 +4147,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_navs.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_navs.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_navs.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_navs.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_navs.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_navs.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4163,15 +4163,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_normalize.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_normalize.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_normalize.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_normalize.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_normalize.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_normalize.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4179,15 +4179,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_pager.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_pager.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_pager.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_pager.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_pager.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_pager.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4195,15 +4195,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_pagination.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_pagination.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_pagination.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_pagination.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_pagination.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_pagination.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4211,15 +4211,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_panels.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_panels.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_panels.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_panels.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_panels.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_panels.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4227,15 +4227,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_popovers.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_popovers.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_popovers.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_popovers.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_popovers.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_popovers.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4243,15 +4243,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_print.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_print.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_print.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_print.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_print.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_print.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4259,15 +4259,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_progress-bars.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_progress-bars.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_progress-bars.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_progress-bars.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_progress-bars.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_progress-bars.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4275,15 +4275,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_responsive-embed.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_responsive-embed.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_responsive-embed.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_responsive-embed.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_responsive-embed.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_responsive-embed.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4291,15 +4291,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_responsive-utilities.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_responsive-utilities.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_responsive-utilities.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_responsive-utilities.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_responsive-utilities.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_responsive-utilities.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4307,15 +4307,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_scaffolding.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_scaffolding.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_scaffolding.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_scaffolding.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_scaffolding.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_scaffolding.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4323,15 +4323,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_tables.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_tables.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_tables.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_tables.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_tables.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_tables.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4339,15 +4339,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_theme.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_theme.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_theme.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_theme.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_theme.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_theme.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4355,15 +4355,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_thumbnails.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_thumbnails.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_thumbnails.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_thumbnails.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_thumbnails.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_thumbnails.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4371,15 +4371,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_tooltip.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_tooltip.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_tooltip.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_tooltip.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_tooltip.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_tooltip.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4387,15 +4387,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_type.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_type.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_type.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_type.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_type.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_type.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4403,15 +4403,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_utilities.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_utilities.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_utilities.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_utilities.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_utilities.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_utilities.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4419,15 +4419,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_variables.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_variables.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_variables.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_variables.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_variables.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_variables.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4435,15 +4435,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_wells.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_wells.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_wells.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/css\/_wells.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/_wells.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/css\/_wells.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4451,15 +4451,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_alerts.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_alerts.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_alerts.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_alerts.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_alerts.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_alerts.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4467,15 +4467,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_background-variant.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_background-variant.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_background-variant.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_background-variant.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_background-variant.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_background-variant.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4483,15 +4483,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_border-radius.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_border-radius.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_border-radius.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_border-radius.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_border-radius.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_border-radius.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4499,15 +4499,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_buttons.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_buttons.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_buttons.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_buttons.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_buttons.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_buttons.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4515,15 +4515,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_center-block.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_center-block.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_center-block.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_center-block.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_center-block.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_center-block.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4531,15 +4531,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_clearfix.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_clearfix.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_clearfix.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_clearfix.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_clearfix.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_clearfix.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4547,15 +4547,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_forms.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_forms.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_forms.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_forms.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_forms.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_forms.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4563,15 +4563,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_gradients.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_gradients.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_gradients.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_gradients.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_gradients.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_gradients.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4579,15 +4579,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_grid-framework.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_grid-framework.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_grid-framework.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_grid-framework.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_grid-framework.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_grid-framework.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4595,15 +4595,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_grid.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_grid.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_grid.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_grid.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_grid.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_grid.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4611,15 +4611,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_hide-text.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_hide-text.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_hide-text.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_hide-text.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_hide-text.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_hide-text.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4627,15 +4627,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_image.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_image.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_image.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_image.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_image.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_image.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4643,15 +4643,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_labels.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_labels.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_labels.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_labels.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_labels.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_labels.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4659,15 +4659,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_list-group.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_list-group.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_list-group.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_list-group.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_list-group.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_list-group.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4675,15 +4675,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_nav-divider.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_nav-divider.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_nav-divider.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_nav-divider.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_nav-divider.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_nav-divider.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4691,15 +4691,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_nav-vertical-align.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_nav-vertical-align.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_nav-vertical-align.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_nav-vertical-align.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_nav-vertical-align.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_nav-vertical-align.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4707,15 +4707,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_opacity.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_opacity.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_opacity.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_opacity.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_opacity.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_opacity.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4723,15 +4723,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_pagination.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_pagination.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_pagination.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_pagination.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_pagination.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_pagination.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4739,15 +4739,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_panels.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_panels.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_panels.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_panels.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_panels.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_panels.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4755,15 +4755,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_progress-bar.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_progress-bar.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_progress-bar.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_progress-bar.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_progress-bar.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_progress-bar.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4771,15 +4771,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_reset-filter.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_reset-filter.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_reset-filter.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_reset-filter.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_reset-filter.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_reset-filter.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4787,15 +4787,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_resize.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_resize.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_resize.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_resize.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_resize.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_resize.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4803,15 +4803,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_responsive-visibility.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_responsive-visibility.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_responsive-visibility.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_responsive-visibility.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_responsive-visibility.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_responsive-visibility.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4819,15 +4819,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_size.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_size.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_size.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_size.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_size.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_size.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4835,15 +4835,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_tab-focus.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_tab-focus.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_tab-focus.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_tab-focus.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_tab-focus.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_tab-focus.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4851,15 +4851,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_table-row.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_table-row.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_table-row.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_table-row.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_table-row.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_table-row.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4867,15 +4867,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_text-emphasis.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_text-emphasis.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_text-emphasis.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_text-emphasis.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_text-emphasis.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_text-emphasis.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4883,15 +4883,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_text-overflow.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_text-overflow.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_text-overflow.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_text-overflow.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_text-overflow.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_text-overflow.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4899,15 +4899,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_vendor-prefixes.scss": {
+	"\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_vendor-prefixes.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_vendor-prefixes.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_vendor-prefixes.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/mixins\/_vendor-prefixes.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/scss\/assets\/stylesheets\/bootstrap\/css\/_vendor-prefixes.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4915,15 +4915,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/scss\/style.scss": {
+	"\/seppi\/_resources\/scss\/style.scss": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/scss\/style.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/css\/style.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/scss\/style.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/css\/style.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 3,
@@ -4931,23 +4931,23 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/slick\/slick-theme.css": {
+	"\/seppi\/_resources\/slick\/slick-theme.css": {
 		"fileType": 16,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/slick\/slick-theme.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/slick\/slick-theme.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/sepp\/_resources\/slick\/slick-theme.scss": {
+	"\/seppi\/_resources\/slick\/slick-theme.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/slick\/slick-theme.scss",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/slick\/slick-theme.scss",
 		"outputAbbreviatedPath": "\/sepp\/_resources\/slick\/slick-theme.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
@@ -4956,46 +4956,46 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/_resources\/slick\/slick.css": {
+	"\/seppi\/_resources\/slick\/slick.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/slick\/slick.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/slick\/slick.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/sepp\/_resources\/slick\/slick.js": {
+	"\/seppi\/_resources\/slick\/slick.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/slick\/slick.js",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/slick\/min\/slick-min.js",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/slick\/slick.js",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/slick\/min\/slick-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/sepp\/_resources\/slick\/slick.min.js": {
+	"\/seppi\/_resources\/slick\/slick.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/slick\/slick.min.js",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/slick\/min\/slick.min-min.js",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/slick\/slick.min.js",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/slick\/min\/slick.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/sepp\/_resources\/slick\/slick.scss": {
+	"\/seppi\/_resources\/slick\/slick.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/slick\/slick.scss",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/css\/slick.css",
+		"inputAbbreviatedPath": "\/seppi\/_resources\/slick\/slick.scss",
+		"outputAbbreviatedPath": "\/seppi\/_resources\/css\/slick.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -5003,101 +5003,101 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/sepp\/chronik.html": {
+	"\/seppi\/chronik.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/chronik.html",
+		"inputAbbreviatedPath": "\/seppi\/chronik.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/sepp\/footer.html": {
+	"\/seppi\/footer.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/footer.html",
+		"inputAbbreviatedPath": "\/seppi\/footer.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/sepp\/formular-send.php": {
+	"\/seppi\/formular-send.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/formular-send.php",
+		"inputAbbreviatedPath": "\/seppi\/formular-send.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/sepp\/formular.php": {
+	"\/seppi\/formular.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/formular.php",
+		"inputAbbreviatedPath": "\/seppi\/formular.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/sepp\/fotos.html": {
+	"\/seppi\/fotos.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/fotos.html",
+		"inputAbbreviatedPath": "\/seppi\/fotos.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/sepp\/impressum.html": {
+	"\/seppi\/impressum.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/impressum.html",
+		"inputAbbreviatedPath": "\/seppi\/impressum.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/sepp\/index.html": {
+	"\/seppi\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/index.html",
+		"inputAbbreviatedPath": "\/seppi\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/sepp\/kontakt.html": {
+	"\/seppi\/kontakt.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/kontakt.html",
+		"inputAbbreviatedPath": "\/seppi\/kontakt.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/sepp\/navbar.html": {
+	"\/seppi\/navbar.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/navbar.html",
+		"inputAbbreviatedPath": "\/seppi\/navbar.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/sepp\/termine.html": {
+	"\/seppi\/termine.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/termine.html",
+		"inputAbbreviatedPath": "\/seppi\/termine.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/sepp\/verein.html": {
+	"\/seppi\/verein.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sepp\/verein.html",
+		"inputAbbreviatedPath": "\/seppi\/verein.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
