@@ -199,13 +199,13 @@ footer {
             }
         }
     }
+    .made-by {
+        text-align: right;
+    }
 }
 
 @media (max-width: $screen-md-min) {
     footer {
         text-align: center;
-        &.text-right {
-            text-align: center !important;
-        }
     }
 }
