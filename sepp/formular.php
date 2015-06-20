@@ -30,15 +30,15 @@
 // If there are no errors, send the email
 if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
     if (mail ($to, $subject, $body, $from)) {
-        $result='<div class="alert alert-success">Thank You! I will be in touch</div>';
+        $result='<div class="alert alert-success">Nachricht wurde erfolgreich abgeschickt</div>';
     } else {
-        $result='<div class="alert alert-danger">Sorry there was an error sending your message. Please try again later.</div>';
+        $result='<div class="alert alert-danger">Oops, es gab ein Problem mit deiner Nachricht. Bitte versuche es später noch einmal.</div>';
     }
 }
     }
 ?>
 
-<form class="form-horizontal" role="form" method="post" action="formular.php">
+<form class="form-horizontal" role="form" method="post" action="kontakt.html">
     <div class="form-group">
         <label for="name" class="col-sm-2 control-label">Name</label>
         <div class="col-sm-10">
