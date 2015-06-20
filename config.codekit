@@ -3461,6 +3461,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/sepp\/_resources\/img\/impressum\/icon_impressum.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2747,
+		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/impressum\/icon_impressum.png",
+		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/impressum\/icon_impressum.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sepp\/_resources\/img\/kontakt\/icon_kontakt.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3913,
+		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/kontakt\/icon_kontakt.png",
+		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/kontakt\/icon_kontakt.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/sepp\/_resources\/img\/slick-slider\/jubilaum.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3490,6 +3512,39 @@
 		"initialSize": 76603,
 		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/slick-slider\/welcome.png",
 		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/slick-slider\/welcome.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sepp\/_resources\/img\/termine\/15-Weinfest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91727,
+		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/termine\/15-Weinfest.jpg",
+		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/termine\/15-Weinfest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sepp\/_resources\/img\/termine\/herbstfest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32031,
+		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/termine\/herbstfest.jpg",
+		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/termine\/herbstfest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sepp\/_resources\/img\/termine\/icon_termine.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2691,
+		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/termine\/icon_termine.png",
+		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/termine\/icon_termine.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4953,6 +5008,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/sepp\/chronik.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/sepp\/formular.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sepp\/formular.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

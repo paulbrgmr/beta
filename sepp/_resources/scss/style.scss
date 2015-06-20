@@ -29,6 +29,10 @@ body {
     }
 }
 
+p {
+    font-size: $font-size-large;
+}
+
 .navbar-default {
     font-weight: 700;
     text-transform: uppercase;
