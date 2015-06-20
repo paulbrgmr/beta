@@ -4,9 +4,9 @@
         $email = $_POST['email'];
         $message = $_POST['message'];
         $human = intval($_POST['human']);
-        $from = 'Demo Contact Form'; 
-        $to = 'example@domain.com'; 
-        $subject = 'Message from Contact Demo ';
+        $from = 'Burschenverein'; 
+        $to = 'p.bergmeir@gmail.com'; 
+        $subject = 'Nachricht von Burschenverein';
         
         $body ="From: $name\n E-Mail: $email\n Message:\n $message";
         // Check if name has been entered
