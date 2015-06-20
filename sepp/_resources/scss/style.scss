@@ -57,6 +57,14 @@ footer {
     padding-bottom: 0px;
     padding-top: 15px;
     margin-bottom: -20px;
+    a {
+        color: #fff;
+        text-decoration: underline;
+        &:hover, &:focus, &:active {
+            color: #fff;
+            text-decoration: underline;
+        }
+    }
 }
 
 .navbar-default {
