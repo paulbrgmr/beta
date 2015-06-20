@@ -32,7 +32,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-offset-3 col-xs-6 col-sm-offset-0 col-sm-12 col-md-offset-2 col-md-8">
-                <a href="#" id="header-img">
+                <a href="/index.html" id="header-img">
                     <img src="_resources/img/header.png" class="img-responsive center-block hidden-xs">
                     <img src="_resources/img/header-mobile.png" class="img-responsive center-block visible-xs">
                 </a>
