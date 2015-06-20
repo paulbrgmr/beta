@@ -3307,17 +3307,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/sepp\/_resources\/img\/add-member.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1278,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/add-member.png",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/add-member.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/sepp\/_resources\/img\/bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3329,24 +3318,90 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/calendar.png": {
+	"\/sepp\/_resources\/img\/chronik\/icon_chronik.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1414,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/calendar.png",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/calendar.png",
+		"initialSize": 3254,
+		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/chronik\/icon_chronik.png",
+		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/chronik\/icon_chronik.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sepp\/_resources\/img\/comment.png": {
+	"\/sepp\/_resources\/img\/fotos\/fasching12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21237,
+		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/fasching12.jpg",
+		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/fasching12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sepp\/_resources\/img\/fotos\/icon_fotos.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 558,
-		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/comment.png",
-		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/comment.png",
+		"initialSize": 2691,
+		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/icon_fotos.png",
+		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/icon_fotos.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sepp\/_resources\/img\/fotos\/maibaum13.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30755,
+		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/maibaum13.jpg",
+		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/maibaum13.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sepp\/_resources\/img\/fotos\/maibaumfiguren.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34370,
+		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/maibaumfiguren.jpg",
+		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/maibaumfiguren.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sepp\/_resources\/img\/fotos\/weinfest11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17323,
+		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/weinfest11.jpg",
+		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/weinfest11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sepp\/_resources\/img\/fotos\/weinfest12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20216,
+		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/weinfest12.jpg",
+		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/weinfest12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sepp\/_resources\/img\/fotos\/weinfest13.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17837,
+		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/weinfest13.jpg",
+		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/fotos\/weinfest13.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3369,6 +3424,39 @@
 		"initialSize": 34178,
 		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/header.png",
 		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sepp\/_resources\/img\/home\/add-member.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1278,
+		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/home\/add-member.png",
+		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/home\/add-member.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sepp\/_resources\/img\/home\/calendar.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1414,
+		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/home\/calendar.png",
+		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/home\/calendar.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sepp\/_resources\/img\/home\/comment.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 558,
+		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/home\/comment.png",
+		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/home\/comment.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3402,6 +3490,28 @@
 		"initialSize": 76603,
 		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/slick-slider\/welcome.png",
 		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/slick-slider\/welcome.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sepp\/_resources\/img\/verein\/icon_verein.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2454,
+		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/verein\/icon_verein.png",
+		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/verein\/icon_verein.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sepp\/_resources\/img\/verein\/vorstandschaft.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 506694,
+		"inputAbbreviatedPath": "\/sepp\/_resources\/img\/verein\/vorstandschaft.jpg",
+		"outputAbbreviatedPath": "\/sepp\/_resources\/img\/verein\/vorstandschaft.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
