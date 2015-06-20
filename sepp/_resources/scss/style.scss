@@ -27,6 +27,11 @@ body {
         margin-top: 20px;
         background-color: rgba(255,255,255,0.5);
     }
+    a {
+        img {
+            margin: 15px 0;
+        }
+    }
 }
 
 .form-control {
@@ -149,6 +154,8 @@ footer {
     color: #62CC6C;
 }
 
+
+
 @media (min-width: $screen-sm-min) {
     .navbar-default {
         &.navbar {
@@ -180,6 +187,13 @@ footer {
         &:nth-child(even) {
             padding-right: 30px;
             padding-left: 0;
+        }
+    }
+    #fotos {
+        a {
+            img {
+                margin: 0;
+            }
         }
     }
 }
