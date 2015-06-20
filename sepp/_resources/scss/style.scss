@@ -109,6 +109,26 @@ p {
     }
 }
 
+#weinfest, #fasching, #maibaum {
+    padding: 0;
+    h2 {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+}
+
+#weinfest {
+    color: #FBB03B;
+}
+
+#fasching {
+    color: #00A99D;
+}
+
+#maibaum {
+    color: #62CC6C;
+}
+
 @media (min-width: $screen-sm-min) {
     .navbar-default {
         &.navbar {
