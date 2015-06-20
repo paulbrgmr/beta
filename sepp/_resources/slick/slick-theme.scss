@@ -86,7 +86,7 @@ $slick-opacity-not-active: 0.25 !default;
 
 .slick-prev:before, .slick-next:before {
     font-family: $slick-font-family;
-    font-size: 20px;
+    font-size: 40px;
     line-height: 1;
     color: $slick-arrow-color;
     opacity: $slick-opacity-default;
@@ -95,7 +95,7 @@ $slick-opacity-not-active: 0.25 !default;
 }
 
 .slick-prev {
-    left: -25px;
+    left: -45px;
     [dir="rtl"] & {
         left: auto;
         right: -25px;
@@ -125,7 +125,7 @@ $slick-opacity-not-active: 0.25 !default;
 /* Dots */
 
 .slick-slider {
-    margin-bottom: 30px;
+    margin-bottom: 45px;
 }
 
 .slick-dots {
