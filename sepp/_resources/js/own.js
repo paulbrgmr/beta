@@ -1,5 +1,6 @@
 $(document).ready(function(){
-    $('#navbar').load('header.html');
+    $('#head').load('head.html');
+    $('#navbar').load('navbar.html');
     $('.slick-slider').slick({
         accessibility: true,
         dots: true
