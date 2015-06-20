@@ -1,0 +1,1167 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"mare	max-resolution"
+			],
+			[
+				"css",
+				"scss/"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"backc",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"_",
+				"_resources"
+			],
+			[
+				"im",
+				"@import	@import url(${0});"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"pb",
+				"pbrgmr.css"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"b",
+				"both"
+			],
+			[
+				"ted",
+				"text-decoration"
+			],
+			[
+				"t",
+				"target	Attr"
+			],
+			[
+				"sunset_",
+				"sunset_progressiv.jpg	w:2000 h:1339"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"cl",
+				"clear: 〔property〕"
+			],
+			[
+				"bo",
+				"both〔value〕"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"heder",
+				"header.html"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"res",
+				"_resources/"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"ch",
+				"choice1"
+			],
+			[
+				"com",
+				"computerChoice〔variable〕"
+			],
+			[
+				"ti",
+				"tie"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"cm",
+				"computerChoice"
+			],
+			[
+				"pro",
+				"prompt〔function〕"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"sun",
+				"sunset_optimized.jpg	w:2000 h:1339"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"f",
+				"file-management.html"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"ffa",
+				"font-family"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"kf",
+				"@kf	@-webkit-keyframes ${1:identifier} {\n	${2:from} { ${3} }${6}\n	${4:to} { ${5} }\n}\n@-o-keyframes ${1:identifier} {\n	${2:from} { ${3} }${6}\n	${4:to} { ${5} }\n}\n@-moz-keyframes ${1:identifier} {\n	${2:from} { ${3} }${6}\n	${4:to} { ${5} }\n}\n@keyframes ${1:identifier} {\n	${2:from} { ${3} }${6}\n	${4:to} { ${5} }\n}"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1332,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cxo/scss/style.scss",
+			"settings":
+			{
+				"buffer_size": 122,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cxo/scss/weather.scss",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cxo/js/weather.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"syn sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"syn l",
+				"Set Syntax: LESS"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sni ",
+				"Snippet: html"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn ",
+				"Set Syntax: HTML"
+			],
+			[
+				"b",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brows",
+				"SFTP: Browse Server…"
+			],
+			[
+				"hb",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"br ",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sni web",
+				"Snippet: webkit-animation"
+			],
+			[
+				"syn les",
+				"Set Syntax: LESS"
+			],
+			[
+				"sni",
+				"Snippet: html"
+			],
+			[
+				"webani",
+				"Snippet: webkit-animation"
+			],
+			[
+				"syn",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn hmtl",
+				"Set Syntax: HTML"
+			],
+			[
+				"sni html",
+				"Snippet: html"
+			],
+			[
+				"sni boot",
+				"Snippet: bootstrap"
+			],
+			[
+				"sni ani",
+				"Snippet: webkit-animation"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sn boo",
+				"Snippet: bootstrap"
+			],
+			[
+				"sni hm",
+				"Snippet: html"
+			],
+			[
+				"sni ht",
+				"Snippet: html"
+			],
+			[
+				"sni hmtl",
+				"Snippet: html"
+			],
+			[
+				"sni boo",
+				"Snippet: bootstrap"
+			],
+			[
+				"brse",
+				"SFTP: Browse Server…"
+			],
+			[
+				"br ser",
+				"SFTP: Browse Server…"
+			],
+			[
+				"file",
+				"File: New View into File"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"sy css",
+				"Set Syntax: CSS"
+			],
+			[
+				"renam",
+				"Emmet: Rename Tag"
+			],
+			[
+				"sn ani",
+				"Snippet: webkit-animation"
+			],
+			[
+				"file cl",
+				"File: Close All"
+			],
+			[
+				"sn kf",
+				"Snippet: @keyframe"
+			],
+			[
+				"snippet ",
+				"Snippet: animation-ende"
+			],
+			[
+				"fo right",
+				"Origami: Focus on Pane on the Right"
+			],
+			[
+				"fu le",
+				"Origami: Focus on Pane on the Left"
+			],
+			[
+				"fu ri",
+				"Origami: Focus on Pane on the Right"
+			],
+			[
+				"focus",
+				"Origami: Focus on Pane on the Left"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bootstrap"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Paul/Sites/beta/bootstrap",
+		"/Users/Paul/Sites/beta/bootstrap/scss",
+		"/Users/Paul/Sites/beta/bootstrap/scss/assets",
+		"/Users/Paul/Sites/beta/bootstrap/scss/assets/javascripts",
+		"/Users/Paul/Sites/beta/bootstrap/scss/assets/stylesheets"
+	],
+	"file_history":
+	[
+		"/Users/Paul/Library/Application Support/Sublime Text 3/Packages/User/HTML/bootstrap.sublime-snippet",
+		"/Users/Paul/Sites/beta/bootstrap/cxo-scss/js/weather.js",
+		"/Users/Paul/Sites/beta/bootstrap/cxo-scss/style.scss",
+		"/Users/Paul/Sites/beta/bootstrap/cxo-scss/weather.scss",
+		"/Users/Paul/Sites/beta/bootstrap/style.scss",
+		"/Users/Paul/Sites/beta/bootstrap/scss/assets/stylesheets/_bootstrap.scss",
+		"/Users/Paul/Sites/beta/bootstrap/scss/.gitignore",
+		"/Users/Paul/Sites/beta/bootstrap/scss/bootstrap-sass.gemspec",
+		"/Users/Paul/Library/Application Support/Sublime Text 3/Packages/Gulp/Gulp.sublime-settings",
+		"/Users/Paul/Sites/bootstrap/bootstrap-sass-3.3.4/assets/stylesheets/bootstrap/_alerts.scss",
+		"/Users/Paul/Downloads/marauders-map-master/src/fb/content.js",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/ADB6EC12-E595-4B0A-A396-7DDE12DC2FE4/.htaccess",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/A18B9D82-B544-461F-BDFD-C0514F0AE81A/index.html",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/6EF6B957-BD43-447B-BAA6-29F2B7307E76/.qmail-hello",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/7C583C60-A768-4C8C-B4A2-624AD68CF109/.qmail-hello",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/182A98C2-944D-4969-A45B-B5BCE7EBA7E4/.qmail",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/6A14DC17-D0C6-4EF7-A466-319E33C43BA2/ghost.css",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/4A011B72-FFF3-4596-8003-AF351A2801F1/pbrgmr.css",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/281428F8-8115-4CA7-9D9B-259DEE7C79DC/screen.css",
+		"/Volumes/PBrgmr/html/__redesign/index.html",
+		"/Volumes/PBrgmr/html/_redesign/index.html",
+		"/Users/Paul/Sites/Website_Paul/_resources/style.css",
+		"/Users/Paul/Sites/Website_Paul/style.less",
+		"/var/folders/7r/3mtvjlsn39n69_lwxr55569m0000gn/T/sublime-sftp-browse-1432359799/sophia/var/www/virtual/sophia/html/wp-content/themes/hemlock-child/style.css",
+		"/Users/Paul/Sites/beta/style.less",
+		"/Users/Paul/Library/Application Support/Sublime Text 3/Packages/User/HTML/html.sublime-snippet",
+		"/Users/Paul/Library/Application Support/Google/Chrome/Profile 2/Cookies",
+		"/Users/Paul/Library/Application Support/Google/Chrome/Profile 2/Current Tabs",
+		"/Users/Paul/Library/Application Support/Google/Chrome/Profile 2/Current Session",
+		"/Users/Paul/Library/Application Support/Google/Chrome/Profile 2/Cookies-journal",
+		"/Users/Paul/Library/Cookies/com.apple.Safari.SafeBrowsing.binarycookies",
+		"/Users/Paul/Library/Cookies/HSTS.plist",
+		"/var/folders/7r/3mtvjlsn39n69_lwxr55569m0000gn/T/sublime-sftp-browse-1432070305/blogpaul/var/www/virtual/blogpaul/html/wp-content/themes/graphy/index.php",
+		"/var/folders/7r/3mtvjlsn39n69_lwxr55569m0000gn/T/sublime-sftp-browse-1432070347/blogpaul/var/www/virtual/blogpaul/html/wp-content/themes/graphy/functions.php",
+		"/Volumes/PBrgmr/photos.pbergmeir.com/wp-content/themes/gridsby/functions.php",
+		"/Volumes/GhstPaul/ghost/content/themes/pbrgmr/assets/css/pbrgmr.css",
+		"/Volumes/GhstPaul/ghost/content/themes/pbrgmr/default.hbs",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/DC3264B1-7392-4E02-A448-0455D4E01EC4/update-ghost.sh",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/578A1ED0-B1A1-4588-876E-6D26A3F28848/update-ghost.sh",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/C4FC8F30-C6AD-4028-B633-AB836DB0EC1B/ghost-0.6.3.zip",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/5A5C73DA-58A5-4E71-B070-42F246845745/config.js",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/B8714BD0-461C-45D3-9867-9E6237284AC6/bower.json",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/DB8A3893-C36D-45EC-A66C-B1177F367561/update-ghost.sh.1",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/34F93E0B-835B-42E7-ABE3-E9DC57B4F035/update-ghost.sh",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/F24EF688-3041-45CE-A9A6-B9CC4E04B721/-.htaccess",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/F1DE1AD9-4C61-4603-A310-2E0B4476D37D/._htaccess",
+		"/Users/Paul/Downloads/_.htaccess",
+		"/Users/Paul/Sites/Website_Mama/_resources/img/Logo.ai",
+		"/Applications/MAMP/htdocs/maedchenclutch/wp-content/themes/hemlock-child/style.css",
+		"/Users/Paul/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Paul/Sites/maedchenclutch/style.css",
+		"/Users/Paul/Sites/Websites_bkp/paulbergmeir_de/css/bootstrap.css",
+		"/var/folders/7r/3mtvjlsn39n69_lwxr55569m0000gn/T/sublime-sftp-browse-1431465781/sophia/var/www/virtual/sophia/html/wp-content/themes/hemlock-child/style.css",
+		"/Users/Paul/Library/Caches/com.apple.bird/session/g/2AD3B061-A209-4C25-8E44-344441BE6689",
+		"/var/folders/7r/3mtvjlsn39n69_lwxr55569m0000gn/T/sublime-sftp-browse-1431274939/sophia/var/www/virtual/sophia/html/wp-content/themes/hemlock-child/footer.php",
+		"/var/folders/7r/3mtvjlsn39n69_lwxr55569m0000gn/T/sublime-sftp-browse-1431273652/sophia/var/www/virtual/sophia/html/wp-content/themes/hemlock-child/header.php",
+		"/var/folders/7r/3mtvjlsn39n69_lwxr55569m0000gn/T/sublime-sftp-browse-1431273486/sophia/var/www/virtual/sophia/html/wp-content/themes/hemlock-child/style.css",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/E4DFAD54-6B03-4574-805E-A119F4B5AA4B/access_log",
+		"/var/folders/7r/3mtvjlsn39n69_lwxr55569m0000gn/T/sublime-sftp-browse-1431267288/sophia/var/www/virtual/sophia/html/wp-content/themes/hemlock-child/style.css",
+		"/Users/Paul/Downloads/bus.svg",
+		"/Users/Paul/Downloads/tram.svg",
+		"/Volumes/PBrgmr/maedchenclutch.pbergmeir.com/wp-content/themes/pbrgmr/style.css",
+		"/Users/Paul/Library/Application Support/Übersicht/widgets/morning.widget/morning.coffee",
+		"/Users/Paul/Downloads/Website/index.html",
+		"/Users/Paul/Downloads/Website/main.css",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/54AD779B-C101-4E2A-AB87-EA12B2054DD2/header.php",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/3EE0FE50-55A9-44AF-BF14-B75F23056C03/footer.php",
+		"/Volumes/GhstPaul/ghost/content/themes/pbrgmr/post.hbs",
+		"/Volumes/GhstPaul/ghost/content/themes/pbrgmr/assets/css/screen.css",
+		"/Volumes/GhstPaul/ghost/content/themes/casper/package.json",
+		"/Users/Paul/Library/Caches/TemporaryItems/hemlock-child/style.css",
+		"/var/folders/7r/3mtvjlsn39n69_lwxr55569m0000gn/T/sublime-sftp-browse-1430482413/pbrgmr/var/www/virtual/pbrgmr/maedchenclutch.pbergmeir.com/wp-content/themes/hemlock-child/style.css",
+		"/var/folders/7r/3mtvjlsn39n69_lwxr55569m0000gn/T/sublime-sftp-browse-1430482369/sophia/var/www/virtual/sophia/html/wp-content/themes/hemlock-child/style.css",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/391D4985-664F-43C8-8B9C-316E501CC252/index.html",
+		"/Users/Paul/Sites/Website_Paul/index.html",
+		"/Users/Paul/Sites/Website_Paul/less/pbrgmr.less",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/52695606-4796-4F46-BCBF-9C574796B118/screen.css",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/EDFACF1E-A2F0-477E-9E92-41EB896A398D/update-ghost.sh",
+		"/Volumes/Sophia/html/wp-content/themes/hemlock-child/header.php",
+		"/Volumes/Sophia/html/wp-content/themes/hemlock-child/style.css",
+		"/var/folders/7r/3mtvjlsn39n69_lwxr55569m0000gn/T/sublime-sftp-browse-1430050831/sophia/var/www/virtual/sophia/html/wp-content/themes/hemlock-child/style.css",
+		"/var/folders/7r/3mtvjlsn39n69_lwxr55569m0000gn/T/sublime-sftp-browse-1430048333/sophia/var/www/virtual/sophia/html/wp-content/themes/hemlock-child/style.css",
+		"/var/folders/7r/3mtvjlsn39n69_lwxr55569m0000gn/T/sublime-sftp-browse-1430044885/sophia/var/www/virtual/sophia/html/wp-content/themes/hemlock-child/style.css",
+		"/var/folders/7r/3mtvjlsn39n69_lwxr55569m0000gn/T/sublime-sftp-browse-1430046398/sophia/var/www/virtual/sophia/html/wp-content/themes/hemlock/style.css",
+		"/var/folders/7r/3mtvjlsn39n69_lwxr55569m0000gn/T/sublime-sftp-browse-1430046470/sophia/var/www/virtual/sophia/html/wp-content/themes/hemlock/css/responsive.css",
+		"/Users/Paul/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/sophia",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/8675922B-11EF-4E5D-A1A0-0CACD91F072C/header.php",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/B5B26FA4-7160-416C-A509-A1046D20F041/header.php",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/F0BB13F7-E88E-49FF-9344-04C2C6E591A5/header.php",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/53B29227-51F4-472E-8609-DE364BE001C7/index.php",
+		"/Volumes/Sophia/html/wp-content/themes/hemlock-child/footer.php",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/3E0E0EE2-9A27-4AC5-A558-57BE7B01144C/functions.php",
+		"/Users/Paul/Downloads/order-mail.html",
+		"/Users/Paul/Downloads/index-lp.html",
+		"/Users/Paul/Downloads/kiehls.JPG",
+		"/Users/Paul/Desktop/mail-signaturen/airmail-div.html",
+		"/Users/Paul/Desktop/mail-signaturen/airmail-base.html",
+		"/Users/Paul/Desktop/mail-signaturen/airmail_v2.html",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/3AC7E940-99B0-4BA5-9527-F2291075BC8F/index.html",
+		"/Volumes/GhstPaul/ghost/config.js",
+		"/var/folders/7r/3mtvjlsn39n69_lwxr55569m0000gn/T/sublime-sftp-browse-1429048935/pbrgmr/var/www/virtual/pbrgmr/html/index.html",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/5ABEB331-F7B6-4715-88CC-925C833345FA/default.hbs",
+		"/var/folders/7r/3mtvjlsn39n69_lwxr55569m0000gn/T/sublime-sftp-browse-1429048195/pbrgmr/var/www/virtual/pbrgmr/html/index.html",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/6509138A-DFE8-4F83-97E9-7A1D21328C62/config.js",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/2FD4D6A6-14A5-45FF-917C-7347ADA289AC/config.js",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/C7847A75-AB85-410E-A5DC-38A4BCAA3961/wp-config.php",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/926F519E-246E-4879-9C9F-492FB1A8CE72/wp-config.php",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/31A60467-1C5F-4B61-937C-7283ECD950B6/wp-config.php",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/35CD48DE-6E92-46FE-903D-3D350EF84334/config.js",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/8E579C3C-4900-4E85-97A4-2EB8D33C6D95/index.html",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/BB7092EB-F78B-4383-AFF2-075A47CB1BC5/wp-config.php",
+		"/Users/Paul/Sites/Website_Mama/style.less",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/604A0EC0-7900-4C75-9119-E0A7284C66DF/index.css",
+		"/Volumes/USB PAUL/swf-index/website/_resources/style.less",
+		"/Volumes/USB PAUL/swf-index/website/index.html",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/CFBB47E4-E316-48D9-B63A-17B504398EF1/.htaccess",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/AFB913FC-1469-4B70-A294-D74F9C5BEAB9/.htaccess",
+		"/Users/Paul/Desktop/favicon.ico",
+		"/Users/Paul/Sites/Website_Paul/error404.html",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/645DFE2B-D4C3-4593-9336-AEC90B04D1AA/.qmail-postmaster",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/55FFBF3F-65E7-470A-9C09-D1F38F423A79/.qmail-hostmaster",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/54F7481A-8B26-4611-8EDA-DB8D7BAF5BC9/.qmail-abuse",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/94DFFBC5-5672-47C1-A58C-9930893255AE/.qmail-hello",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/BC6D24A8-DE5C-4167-9B09-EFBB8FB8D565/.qmail-error",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/67132C4F-2785-44EE-B836-92A34F5D2E1A/.qmail-postmaster",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/4EB357A5-F978-46FE-8EE9-50501BD4D6F1/.qmail-hostmaster",
+		"/Users/Paul/Library/Caches/Cleanup At Startup/Transmit/73CEB01F-2180-4760-9C78-DEE2CEA958D9/.htaccess",
+		"/Users/Paul/Sites/Website_Paul/.htaccess"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"<current file>",
+			"<open folders>",
+			"<open files>",
+			"<open folders>",
+			"/Volumes/JSchob/html/wp-content/themes/enfold",
+			"/Volumes/JSchob/html/wp-content",
+			"<open folders>",
+			"/Users/Paul/Dropbox/Schule/schule_website",
+			"/Volumes/JSchob/html/wp-content/themes/enfold",
+			"/Users/Paul/Sites/loreal",
+			"/Volumes/BlogPaul/html/wp-content/themes/graphy",
+			"/Users/Paul/Sites/website_schule",
+			"/Users/Paul/Library/Application Support/Sublime Text 3",
+			"/Users/Paul/Sites/website_schule"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"  ",
+			"\"",
+			"play-pf",
+			" / 2",
+			"2s",
+			"2s;",
+			"tfolio-desc\"",
+			"transition: 2s;\n            -webkit-transition: 2s;",
+			" /* For Safari 3.1 to 6.0 */",
+			"transition: 2s;\n            -webkit-transition: 2s; /* For Safari 3.1 to 6.0 */",
+			"2s",
+			"transition: 2s;\n            -webkit-transition: 2s; /* For Safari 3.1 to 6.0 */\n        }",
+			"transition: 0.5s;",
+			"transition",
+			";;",
+			"{\n            display: none;",
+			"\n        &:hover {\n            #portfolio-\n        }",
+			"display: none;\n        }",
+			"<p>",
+			"</p></div>",
+			".circle {",
+			"blog",
+			"elena",
+			"44",
+			"<li>",
+			"h1",
+			"col-9-12",
+			"open sans",
+			"margin",
+			".menu-button",
+			"@media",
+			"body {",
+			"body",
+			".container.sp_sidebar #main {",
+			"%",
+			"}",
+			"%",
+			"}",
+			".container {",
+			".container {\n    width: 750px;\n  }",
+			"@media",
+			"wpadmin",
+			"@media",
+			"elena/html/blog/",
+			"#header #logo img {\n        width:",
+			"}\n",
+			"%;\n",
+			"@media (min-width: 1450px) {",
+			"    #header #logo img {",
+			"#header #logo img",
+			"#header",
+			"width: ;",
+			"){",
+			"@media",
+			"Twenty Fifteen",
+			"role=\"presentation\"",
+			"main-nav",
+			"<script",
+			"merri",
+			"rem",
+			"#logo img",
+			"@media",
+			"header",
+			"carrie",
+			"#header .header",
+			"carrie",
+			"top-",
+			"sidebar",
+			"  ",
+			"<a href=\"",
+			"padding-left: 30px; ",
+			" padding-left: 30px;",
+			" style=\"text-align: justify; padding-left: 30px;\"",
+			"font-size",
+			"font",
+			";  ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"   ",
+			"  ",
+			"float: left;",
+			"<p",
+			"<p style",
+			"<p",
+			"<div",
+			"p>",
+			"<p",
+			"p",
+			"<p",
+			"style=\"float: left;\"",
+			"\"",
+			"<p",
+			"p",
+			"text-a",
+			"tbody",
+			"table",
+			"ponsive\">",
+			"/bilder",
+			"<img src",
+			"h2",
+			"<a href=\"#\">",
+			"Impressum",
+			"<a href",
+			"href",
+			" col-lg-4 text-center\"",
+			"-2 col-sm-8 col-md-offset-3",
+			"md",
+			"ass=\"col-lg-4 text-center",
+			"<div class=\"col-xs-offset-1 col-xs-10 col-lg-offset-2 col-lg-8\">",
+			"<div class=\"panel-heading\">",
+			"col-xs-offset-1 col-xs-10",
+			"\n					<div class=\"panel panel-default\">",
+			"header",
+			"<div class=\"col-lg-offset-3 col-lg-6\">",
+			"col-lg-offset-2",
+			"0.5",
+			"000",
+			"#000",
+			"infinite",
+			"0.5s",
+			"f-primary, 50%);",
+			".2",
+			"100%",
+			"0.5",
+			"100%",
+			"1s"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    ",
+			"p\n<ul>",
+			" </p>\n<ul>",
+			" ",
+			";\n}\n",
+			"_resources",
+			"<a href=\"korrektur.html\">Tonwertkorrektur</a>",
+			"",
+			"<div class=\"navbar-brand\">L’oreal Luxe</div>",
+			"<h1 class=\"text-center\" id=\"ps-logo\"><img src=\"img/ps-icon.png\" alt=\"Photoshop\"><p>Grundlagen</p></h1>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1297,
+								1297
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "cxo/scss/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "cxo/scss/weather.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "cxo/js/weather.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "SCSS.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"weather",
+				"cxo/js/weather.js"
+			],
+			[
+				"style",
+				"cxo/scss/style.scss"
+			],
+			[
+				"css",
+				"assets/css/screen.css"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"def",
+				"content/themes/casper/default.hbs"
+			],
+			[
+				"variab",
+				"_resources/bootstrap/less/variables.less"
+			],
+			[
+				"form",
+				"_resources/bootstrap/less/forms.less"
+			],
+			[
+				"boo",
+				"_resources/bootstrap/less/bootstrap.less"
+			],
+			[
+				"st",
+				"_resources/style.less"
+			],
+			[
+				"",
+				"index.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"pbrg",
+				"less/pbrgmr.less"
+			],
+			[
+				"confi",
+				"config.js"
+			],
+			[
+				"kop",
+				"style Kopie.less"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"var",
+				"bower_components/bootstrap/less/variables.less"
+			],
+			[
+				"g",
+				"config.codekit"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"far",
+				"farbton.html"
+			],
+			[
+				"helper-main",
+				"html/wp-content/themes/enfold/includes/helper-main-menu.php"
+			],
+			[
+				"n",
+				"index.html"
+			],
+			[
+				"archiv",
+				"archiv/style.less"
+			],
+			[
+				"stl",
+				"style.less"
+			],
+			[
+				"hede",
+				"header.php"
+			],
+			[
+				"edit",
+				"css/editor-style.css"
+			],
+			[
+				"foot",
+				"footer.php"
+			],
+			[
+				"ar",
+				"archive.php"
+			],
+			[
+				"farb",
+				"farbton.html"
+			],
+			[
+				"styl",
+				"style_v2.less"
+			],
+			[
+				"s",
+				"style.less"
+			],
+			[
+				"v2",
+				"index_v2.html"
+			],
+			[
+				"wis",
+				"wishlist.less"
+			],
+			[
+				"wish",
+				"wishlist.less"
+			],
+			[
+				"ko",
+				"kontrast.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
