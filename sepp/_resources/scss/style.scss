@@ -97,6 +97,18 @@ p {
     margin-bottom: 40px;
 }
 
+.vorstand {
+    margin-top: 15px;
+    &:nth-child(odd) {
+        padding-left: 0;
+        padding-right: 0px;
+    }
+    &:nth-child(even) {
+        padding-right: 0px;
+        padding-left: 0;
+    }
+}
+
 @media (min-width: $screen-sm-min) {
     .navbar-default {
         &.navbar {
@@ -117,6 +129,17 @@ p {
                     }
                 }
             }
+        }
+    }
+    .vorstand {
+        margin-top: 15px;
+        &:nth-child(odd) {
+            padding-left: 0;
+            padding-right: 30px;
+        }
+        &:nth-child(even) {
+            padding-right: 30px;
+            padding-left: 0;
         }
     }
 }
