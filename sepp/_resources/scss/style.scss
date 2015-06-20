@@ -6,7 +6,7 @@
 
 body {
     background-image: url('../img/bg.jpg');
-    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 #header-img {
@@ -50,8 +50,13 @@ p {
     color: #3b5998;
 }
 
-.slick-prev:before {
-    font-size: 40px;
+footer {
+    bottom: 0;
+    background-color: $brand-primary;
+    color: #fff;
+    padding-bottom: 0px;
+    padding-top: 15px;
+    margin-bottom: -20px;
 }
 
 .navbar-default {
