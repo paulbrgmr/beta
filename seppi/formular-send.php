@@ -26,8 +26,21 @@
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
 
+        <script language="javascript">
+            document.onmousedown=disableclick;
+            status="Right Click Disabled";
+            Function disableclick(event)
+            {
+              if(event.button==2)
+               {
+                 alert(status);
+                 return false;    
+               }
+            }
+        </script>
+
     </head>
-    <body>
+    <body oncontextmenu="return false;">
 
     <div class="container">
         <div class="row">
