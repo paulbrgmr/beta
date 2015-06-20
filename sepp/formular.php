@@ -38,7 +38,7 @@ if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
     }
 ?>
 
-<form class="form-horizontal" role="form" method="post" action="index.php">
+<form class="form-horizontal" role="form" method="post" action="formular.php">
     <div class="form-group">
         <label for="name" class="col-sm-2 control-label">Name</label>
         <div class="col-sm-10">
