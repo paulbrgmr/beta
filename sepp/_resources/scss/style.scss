@@ -29,6 +29,12 @@ body {
     }
 }
 
+.form-control {
+    border-radius: 0;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
 p {
     font-size: $font-size-large;
 }
