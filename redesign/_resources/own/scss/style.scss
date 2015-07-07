@@ -118,3 +118,16 @@ h2, h3, h4, h5, h6 {
         height: 75vh;
     }
 }
+
+@media (max-width: $screen-md-max) {
+    #skills {
+        margin-bottom: 50px;
+    }
+    #contact {
+        max-height: 50vh;
+    }
+}
+
+@media (max-width: $screen-sm-max) {
+
+}

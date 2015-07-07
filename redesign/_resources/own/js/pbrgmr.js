@@ -28,44 +28,48 @@ $(document).ready(function(){
         }, 0001);
     }
 */
+    var hoverAnimation = 1200;
 
-    var opacityHalf = 0.5;
-    var opacityFull = 1;
+    if ($(document).width() > hoverAnimation) {
+        
+        var opacityHalf = 0.5;
+        var opacityFull = 1;
 
-    $('.portfolio-design').hover(function() {
-        $('.portfolio-code, .portfolio-photo, .html, .css, .javascript, .php, .imovie').css({
-            'opacity': opacityHalf,
-            'transition': '0.3s'
+        $('.portfolio-design').hover(function() {
+            $('.portfolio-code, .portfolio-photo, .html, .css, .javascript, .php, .imovie').css({
+                'opacity': opacityHalf,
+                'transition': '0.3s'
+            });
+        }, function() {
+            $('.portfolio-code, .portfolio-photo, .html, .css, .javascript, .php, .imovie').css({
+                'opacity': opacityFull,
+                'transition': '0.3s'
+            });
         });
-    }, function() {
-        $('.portfolio-code, .portfolio-photo, .html, .css, .javascript, .php, .imovie').css({
-            'opacity': opacityFull,
-            'transition': '0.3s'
-        });
-    });
 
-    $('.portfolio-code').hover(function() {
-        $('.portfolio-design, .portfolio-photo, .photoshop, .illustrator, .indesign, .imovie').css({
-            'opacity': opacityHalf,
-            'transition': '0.3s'
+        $('.portfolio-code').hover(function() {
+            $('.portfolio-design, .portfolio-photo, .photoshop, .illustrator, .indesign, .imovie').css({
+                'opacity': opacityHalf,
+                'transition': '0.3s'
+            });
+        }, function() {
+            $('.portfolio-design, .portfolio-photo, .photoshop, .illustrator, .indesign, .imovie').css({
+                'opacity': opacityFull,
+                'transition': '0.3s'
+            });
         });
-    }, function() {
-        $('.portfolio-design, .portfolio-photo, .photoshop, .illustrator, .indesign, .imovie').css({
-            'opacity': opacityFull,
-            'transition': '0.3s'
-        });
-    });
 
-    $('.portfolio-photo').hover(function() {
-        $('.portfolio-design, .portfolio-code, .illustrator, .indesign, .html, .css, .javascript, .php').css({
-            'opacity': opacityHalf,
-            'transition': '0.3s'
+        $('.portfolio-photo').hover(function() {
+            $('.portfolio-design, .portfolio-code, .illustrator, .indesign, .html, .css, .javascript, .php').css({
+                'opacity': opacityHalf,
+                'transition': '0.3s'
+            });
+        }, function() {
+            $('.portfolio-design, .portfolio-code, .illustrator, .indesign, .html, .css, .javascript, .php').css({
+                'opacity': opacityFull,
+                'transition': '0.3s'
+            });
         });
-    }, function() {
-        $('.portfolio-design, .portfolio-code, .illustrator, .indesign, .html, .css, .javascript, .php').css({
-            'opacity': opacityFull,
-            'transition': '0.3s'
-        });
-    });
+    }
 
 });
