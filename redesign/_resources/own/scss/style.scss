@@ -75,9 +75,11 @@ h2 {
     $portfolio-space-outer: 30px;
     margin-top: $portfolio-space-outer;
     margin-bottom: $portfolio-space-outer;
+/* 
     $portfolio-box-shadow: 0px 2px 4px 0px darken(#f5f5f5, 10%);
     -webkit-box-shadow: $portfolio-box-shadow;
     box-shadow: $portfolio-box-shadow;
+     */
     .row {
         border: 2px solid #f9f9f9;
         $portfolio-space-inner: 15px;
