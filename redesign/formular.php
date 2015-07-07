@@ -38,7 +38,7 @@ if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
     }
 ?>
 
-<form id="formular-form" class="form-horizontal" role="form" method="post" action="">
+<form id="formular-form" class="form-horizontal" role="form" method="post" action="#formular-submit">
     <div class="form-group">
         <label for="name" class="col-sm-2 control-label">Name</label>
         <div class="col-sm-10">
@@ -61,7 +61,10 @@ if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
         </div>
     </div>
     <div class="form-group">
-        <div class="col-sm-10 g-recaptcha" data-sitekey="6LfTcwkTAAAAACiYm9smnRJjvEmJ83UsXT9O8sty"></div>
+        <label for="captcha" class="hidden col-sm-2 control-label"></label>
+        <div class="col-sm-10">
+            <input type="" class="form-control" id="" name="" placeholder="" value="">
+        </div>
     </div>
     <div class="form-group">
         <div class="col-sm-3 col-sm-offset-2">

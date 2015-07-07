@@ -22,4 +22,9 @@ $(document).ready(function(){
 //    $('#formular').hide();
 
     $('#formular').load('formular.php');
+    if(window.location.href.indexOf("formular-submit")) {
+        $('html, body').animate({
+            scrollTop: $("#contact").offset().top
+        }, 0001);
+    }
 });
