@@ -22,20 +22,5 @@ $(document).ready(function(){
 //    $('#formular').hide();
 
     $('#formular').load('formular.php');
-    
-    if (('#formular-collapse').hasClass('.collapse.in')) {
-        
-            $(this).animate({
-                scrollTop:$('#formular-collapse').offset().top
-            },'slow');
-            e.preventDefault();
-        
-    };
-/*
-    $('#formular-slideDown').click(function() {
-        $('#formular-form').animate({
-            scrollTop: $("#elementtoScrollToID").offset().top
-        }, 2000);
-    });
-*/
+         
 });
