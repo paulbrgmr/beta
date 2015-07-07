@@ -67,8 +67,13 @@ p {
     background-color: #f5f5f5;
 }
 
-h2 {
-    font-family: $bitter, serif;
+#portfolio {
+    h2 {
+        font-family: $bitter, serif;
+    }
+    hr {
+        margin-top: 10px;
+    }
 }
 
 [class*=portfolio-] {
@@ -81,7 +86,7 @@ h2 {
     box-shadow: $portfolio-box-shadow;
      */
     .row {
-        border: 1px solid darken(#f9f9f9, 5%);
+//        border: 1px solid darken(#f9f9f9, 5%);
         $portfolio-space-inner: 15px;
         padding-top: $portfolio-space-inner;
         padding-bottom: $portfolio-space-inner;
