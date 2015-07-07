@@ -81,7 +81,7 @@ h2 {
     box-shadow: $portfolio-box-shadow;
      */
     .row {
-        border: 2px solid #f9f9f9;
+        border: 1px solid darken(#f9f9f9, 5%);
         $portfolio-space-inner: 15px;
         padding-top: $portfolio-space-inner;
         padding-bottom: $portfolio-space-inner;
