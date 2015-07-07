@@ -38,8 +38,7 @@ if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
     }
 ?>
 
-<form id="formular-form" class="form-horizontal" role="form" method="post" action="formular-send.php">
-    <hr>
+<form id="formular-form" class="form-horizontal" role="form" method="post" action="">
     <div class="form-group">
         <label for="name" class="col-sm-2 control-label">Name</label>
         <div class="col-sm-10">
@@ -66,7 +65,7 @@ if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
     </div>
     <div class="form-group">
         <div class="col-sm-3 col-sm-offset-2">
-            <input id="submit" name="submit" type="submit" value="Send" class="btn btn-block btn-primary">
+            <input id="submit" name="submit" type="submit" value="Abschicken" class="btn btn-block btn-primary">
         </div>
     </div>
 </form>
