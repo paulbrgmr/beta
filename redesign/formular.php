@@ -4,9 +4,9 @@
         $email = $_POST['email'];
         $message = $_POST['message'];
         $human = intval($_POST['human']);
-        $from = 'Burschenverein'; 
+        $from = 'Homepage'; 
         $to = 'p.bergmeir@gmail.com'; 
-        $subject = 'Nachricht von Burschenverein';
+        $subject = 'Nachricht von Homepage';
         
         $body ="From: $name\n E-Mail: $email\n Message:\n $message";
         // Check if name has been entered
@@ -61,10 +61,11 @@ if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
         </div>
     </div>
     <div class="form-group">
-        <label for="captcha" class="hidden col-sm-2 control-label"></label>
-        <div class="col-sm-10">
+        <!-- <label for="captcha" class="hidden"></label>
+        <div class="hidden">
             <input type="" class="form-control" id="" name="" placeholder="" value="">
-        </div>
+        </div> -->
+        <div class="g-recaptcha col-xs-12" data-sitekey="6LfTcwkTAAAAACiYm9smnRJjvEmJ83UsXT9O8sty"></div>
     </div>
     <div class="form-group">
         <div class="col-sm-3 col-sm-offset-2">

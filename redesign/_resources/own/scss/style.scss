@@ -85,7 +85,7 @@ p {
     }
 }
 
-h2 {
+h2, h3, h4, h5, h6 {
     font-family: $bitter, serif;
 }
 
@@ -96,18 +96,25 @@ h2 {
 }
 
 [class*=portfolio-] {
-    $portfolio-space-outer: 30px;
     margin-top: $portfolio-space-outer;
     margin-bottom: $portfolio-space-outer;
-/* 
-    $portfolio-box-shadow: 0px 2px 4px 0px darken(#f5f5f5, 10%);
-    -webkit-box-shadow: $portfolio-box-shadow;
-    box-shadow: $portfolio-box-shadow;
-     */
     .row {
-//        border: 1px solid darken(#f9f9f9, 5%);
-        $portfolio-space-inner: 15px;
         padding-top: $portfolio-space-inner;
         padding-bottom: $portfolio-space-inner;
+    }
+}
+
+@media (min-width: $screen-md-max) {
+    #portfolio, #skills {
+        height: 50vh;
+    }
+    #skills {
+        padding-top: 50px;
+    }
+    #contact {
+        min-height: 50vh;
+    }
+    #about {
+        height: 75vh;
     }
 }
