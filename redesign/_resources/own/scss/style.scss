@@ -65,12 +65,17 @@ p {
 #contact {
     height: 100vh;
     background-color: #f5f5f5;
+    h2 {
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+}
+
+h2 {
+    font-family: $bitter, serif;
 }
 
 #portfolio {
-    h2 {
-        font-family: $bitter, serif;
-    }
     hr {
         margin-top: 10px;
     }
