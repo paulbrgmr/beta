@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".screen").append('<span class="reset">0</span>'),$(".keyOne").click(function(){console.log("1")}),$(".keyTwo").click(function(){console.log("2")})});

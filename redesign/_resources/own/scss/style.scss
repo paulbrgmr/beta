@@ -1,0 +1,78 @@
+@import '../../assets/stylesheets/_bootstrap.scss';
+@import 'own-var.scss';
+
+body {
+    font-family: $fallback-font;
+}
+
+#hey {
+    height: 100vh;
+    font-family: $proxima-nova, $fallback-font;
+    font-weight: 600;
+    font-size: 7.5rem;
+    line-height: 100vh;
+    vertical-align: middle;
+    margin: 0;
+    opacity: 0;
+}
+
+.fadeIn {
+    -webkit-animation: fadeInHey 2s;
+    animation: fadeInHey 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+
+    @-webkit-keyframes fadeInHey {
+        0%   {
+            margin-top: 50px;
+            opacity: 0;
+        }
+        100% {
+            margin-top: 0;
+            opacity: 1;
+        }
+    }
+    @keyframes fadeInHey {
+        0%   {
+            margin-top: 50px;
+            opacity: 0;
+        }
+        100% {
+            margin-top: 0;
+            opacity: 1;
+        }
+    }
+}
+
+p {
+    font-family: $source-sans-pro, $fallback-font;
+    font-size: 2rem;
+}
+
+#about {
+    height: 100vh;
+    .container {
+        vertical-align: middle;
+    }
+    .about-icon {
+        margin-bottom: 40px;
+        img {
+            border-radius: 100%;
+        }
+    }
+}
+
+#contact {
+    height: 100vh;
+    background-color: #f5f5f5;
+}
+
+h2 {
+    font-family: $bitter, serif;
+}
+
+[class*=portfolio-] {
+    $portfolio-space: 30px;
+    margin-top: $portfolio-space;
+    margin-bottom: $portfolio-space;
+}

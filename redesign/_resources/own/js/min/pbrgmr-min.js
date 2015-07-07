@@ -1,0 +1,1 @@
+$(document).ready(function(){setTimeout(function(){$("h1").addClass("fadeIn")},500);var t=$(".vp-center").outerHeight(),e=$("#contact").outerHeight(!0);$(".vp-center").css({"padding-top":(e-t)/2});var n=$(".vp-center").outerHeight(),o=$("#about").outerHeight(!0);$(".vp-center").css({"padding-top":(e-t)/2})});
