@@ -28,19 +28,22 @@ $(document).ready(function(){
         }, 0001);
     }
 */
+
     var hoverAnimation = 1200;
 
     if ($(document).width() > hoverAnimation) {
-        
+
         var opacityHalf = 0.5;
         var opacityFull = 1;
 
         $('.portfolio-design').hover(function() {
+            $("#design-hover").attr("src","_resources/own/img/svg/design-colored.svg");
             $('.portfolio-code, .portfolio-photo, .html, .css, .javascript, .php, .imovie').css({
                 'opacity': opacityHalf,
                 'transition': '0.3s'
             });
         }, function() {
+            $("#design-hover").attr("src","_resources/own/img/svg/design.svg");
             $('.portfolio-code, .portfolio-photo, .html, .css, .javascript, .php, .imovie').css({
                 'opacity': opacityFull,
                 'transition': '0.3s'
@@ -48,11 +51,13 @@ $(document).ready(function(){
         });
 
         $('.portfolio-code').hover(function() {
+            $("#code-hover").attr("src","_resources/own/img/svg/code-colored.svg");
             $('.portfolio-design, .portfolio-photo, .photoshop, .illustrator, .indesign, .imovie').css({
                 'opacity': opacityHalf,
                 'transition': '0.3s'
             });
         }, function() {
+            $("#code-hover").attr("src","_resources/own/img/svg/code.svg");
             $('.portfolio-design, .portfolio-photo, .photoshop, .illustrator, .indesign, .imovie').css({
                 'opacity': opacityFull,
                 'transition': '0.3s'
@@ -60,11 +65,13 @@ $(document).ready(function(){
         });
 
         $('.portfolio-photo').hover(function() {
+            $("#photo-hover").attr("src","_resources/own/img/svg/photo-colored.svg");
             $('.portfolio-design, .portfolio-code, .illustrator, .indesign, .html, .css, .javascript, .php').css({
                 'opacity': opacityHalf,
                 'transition': '0.3s'
             });
         }, function() {
+            $("#photo-hover").attr("src","_resources/own/img/svg/photo.svg");
             $('.portfolio-design, .portfolio-code, .illustrator, .indesign, .html, .css, .javascript, .php').css({
                 'opacity': opacityFull,
                 'transition': '0.3s'

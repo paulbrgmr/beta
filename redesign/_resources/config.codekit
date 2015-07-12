@@ -1344,6 +1344,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/own\/img\/hey-bg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 282592,
+		"inputAbbreviatedPath": "\/own\/img\/hey-bg.jpg",
+		"outputAbbreviatedPath": "\/own\/img\/hey-bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/own\/img\/portrait-quadrat.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
