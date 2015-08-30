@@ -1,0 +1,105 @@
+/* line 1, /Users/Paul/Sites/beta/one_page/pbrgmr.scss */
+body {
+  font-family: 'Helvetica', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url(img/bg-img.jpg);
+  background-size: cover;
+  color: #000; }
+
+/* line 13, /Users/Paul/Sites/beta/one_page/pbrgmr.scss */
+.content {
+  width: 1140px;
+  margin: 0 auto;
+  padding-top: 175px; }
+
+/* line 25, /Users/Paul/Sites/beta/one_page/pbrgmr.scss */
+.card {
+  width: 50%;
+  margin-left: 25%;
+  background-color: #fafafa;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.25);
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.25); }
+  /* line 30, /Users/Paul/Sites/beta/one_page/pbrgmr.scss */
+  .card .left-col {
+    width: 30%;
+    float: left; }
+    /* line 33, /Users/Paul/Sites/beta/one_page/pbrgmr.scss */
+    .card .left-col .profile-pic {
+      width: 100%; }
+    /* line 36, /Users/Paul/Sites/beta/one_page/pbrgmr.scss */
+    .card .left-col ul {
+      list-style: none;
+      font-size: 18px;
+      padding: 0;
+      margin: 0; }
+      /* line 41, /Users/Paul/Sites/beta/one_page/pbrgmr.scss */
+      .card .left-col ul li {
+        /*&:hover {
+
+                    @mixin navColorHover($colorHoverBorder, $colorHoverBackground) {
+                        border-left: 3px solid $colorHoverBorder;
+                        background-color: lighten($colorHoverBackground, 20%);
+                    }
+
+                    &.about {
+                        @include navColorHover(rgba(254, 238, 187, 0.5), rgba(253, 213, 86, 0.5));
+                    }
+                    &.profile {
+                        @include navColorHover(rgba(159, 189, 247, 0.5), rgba(64, 125, 240, 0.5));
+                    }
+                    &.portfolio {
+                        @include navColorHover(rgba(237, 157, 153, 0.5), rgba(222, 73, 66, 0.5));
+                    }
+                    &.contact {
+                        @include navColorHover(rgba(85, 223, 151, 0.5), rgba(33, 173, 100, 0.5));
+                    }
+                    a {
+                        margin-left: -3px;
+                    }
+                }*/ }
+        /* line 49, /Users/Paul/Sites/beta/one_page/pbrgmr.scss */
+        .card .left-col ul li.active.about {
+          border-left: 3px solid #fdd556;
+          background-color: #feeebb; }
+        /* line 52, /Users/Paul/Sites/beta/one_page/pbrgmr.scss */
+        .card .left-col ul li.active.profile {
+          border-left: 3px solid #407df0;
+          background-color: #9fbdf7; }
+        /* line 55, /Users/Paul/Sites/beta/one_page/pbrgmr.scss */
+        .card .left-col ul li.active.portfolio {
+          border-left: 3px solid #de4942;
+          background-color: #ed9d99; }
+        /* line 58, /Users/Paul/Sites/beta/one_page/pbrgmr.scss */
+        .card .left-col ul li.active.contact {
+          border-left: 3px solid #21ad64;
+          background-color: #55df97; }
+        /* line 86, /Users/Paul/Sites/beta/one_page/pbrgmr.scss */
+        .card .left-col ul li:not(.active) {
+          padding-left: 3px; }
+        /* line 89, /Users/Paul/Sites/beta/one_page/pbrgmr.scss */
+        .card .left-col ul li a {
+          text-decoration: none;
+          color: #000;
+          padding: 15px 15px;
+          display: block; }
+  /* line 98, /Users/Paul/Sites/beta/one_page/pbrgmr.scss */
+  .card .right-col {
+    width: 70%;
+    float: left; }
+    /* line 101, /Users/Paul/Sites/beta/one_page/pbrgmr.scss */
+    .card .right-col .right-content {
+      padding: 15px; }
+      /* line 103, /Users/Paul/Sites/beta/one_page/pbrgmr.scss */
+      .card .right-col .right-content .name {
+        font-size: 26px; }
+      /* line 106, /Users/Paul/Sites/beta/one_page/pbrgmr.scss */
+      .card .right-col .right-content h2 {
+        margin-top: 0px; }
+
+/* line 113, /Users/Paul/Sites/beta/one_page/pbrgmr.scss */
+.clearfix {
+  clear: both; }
+
+/*# sourceMappingURL=pbrgmr.css.map */

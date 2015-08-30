@@ -1,0 +1,115 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+    margin: 0;
+    padding: 0;
+    //background-image: url(img/img-bg.jpg);
+    //background-image: url(https://images.unsplash.com/reserve/6HJtLkJSDqjqlE2NipEu_macbook.jpg?q=80&fm=jpg&s=382783f80b4fb064187d48fc5c3994bb);
+    background-image: url(img/bg-img.jpg);
+    background-size: cover;
+    //background-color: #fff;
+    color: #000;
+}
+
+.content {
+    width: 1140px;
+    margin: 0 auto;
+    padding-top: 175px;
+}
+
+@mixin box-shadow() {
+    -webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,0.25);
+    -moz-box-shadow: 0 0 10px 0 rgba(0,0,0,0.25);
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.25);
+}
+
+.card {
+    width: 50%;
+    margin-left: 25%;
+    background-color: #fafafa;
+    @include box-shadow();
+    .left-col {
+        width: 30%;
+        float: left;
+        .profile-pic {
+            width: 100%;
+        }
+        ul {
+            list-style: none;
+            font-size: 18px;
+            padding: 0;
+            margin: 0;
+            li {
+                &.active {
+
+                    @mixin navColor($color) {
+                        border-left: 3px solid $color;
+                        background-color: lighten($color, 20%);
+                    }
+
+                    &.about {
+                        @include navColor(#fdd556);
+                    }
+                    &.profile {
+                        @include navColor(#407df0);
+                    }
+                    &.portfolio {
+                        @include navColor(#de4942);
+                    }
+                    &.contact {
+                        @include navColor(#21ad64);
+                    }
+
+                }
+                /*&:hover {
+
+                    @mixin navColorHover($colorHoverBorder, $colorHoverBackground) {
+                        border-left: 3px solid $colorHoverBorder;
+                        background-color: lighten($colorHoverBackground, 20%);
+                    }
+
+                    &.about {
+                        @include navColorHover(rgba(254, 238, 187, 0.5), rgba(253, 213, 86, 0.5));
+                    }
+                    &.profile {
+                        @include navColorHover(rgba(159, 189, 247, 0.5), rgba(64, 125, 240, 0.5));
+                    }
+                    &.portfolio {
+                        @include navColorHover(rgba(237, 157, 153, 0.5), rgba(222, 73, 66, 0.5));
+                    }
+                    &.contact {
+                        @include navColorHover(rgba(85, 223, 151, 0.5), rgba(33, 173, 100, 0.5));
+                    }
+                    a {
+                        margin-left: -3px;
+                    }
+                }*/
+                &:not(.active) {
+                    padding-left: 3px;
+                }
+                a {
+                    text-decoration: none;
+                    color: #000;
+                    padding: 15px 15px;
+                    display: block;
+                }
+            }
+        }
+    }
+    .right-col {
+        width: 70%;
+        float: left;
+        .right-content {
+            padding: 15px;
+            .name {
+                font-size: 26px;
+            }
+            h2 {
+                margin-top: 0px;
+            }
+        }
+    }
+}
+
+.clearfix {
+    clear: both;
+}
