@@ -1,0 +1,216 @@
+@mixin proxima-nova($font-weight) {
+    font-family: "proxima-nova",sans-serif;
+    font-style: normal;
+    font-weight: $font-weight;
+}
+
+* {
+    @include proxima-nova(400);
+}
+
+/* $main-color: #EC4757;*/
+/* $scnd-color: #29d; */
+
+// Overwrite jekyll CSS
+
+.site {
+    &-header {
+        border-bottom: none;
+        border-top: none;
+    }
+    &-title {
+        font-size: 18px;
+    }
+    &-nav {
+        /* float: none; */
+        right: 0;
+    }
+    &-footer {
+        border-top: none;
+        bottom: 0;
+        padding: 15px 10px;
+        width: 100%;
+        position: absolute;
+        p {
+            margin-bottom: 0;
+            .fa-heart {
+                font-size: $font-size-small - 2;
+            }
+        }
+    }
+}
+
+.post {
+    &-list {
+        border-bottom: 1px solid #828282;
+        margin-bottom: 20px;
+        h1, h2, h3, h4, h5, h6 {
+            margin-top: 10px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    }
+}
+
+.about-title {
+    display: none;
+}
+
+/* Page Loader Pace */
+
+.pace {
+    -webkit-pointer-events: none;
+    pointer-events: none;
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    
+    &-inactive {
+        display: none;
+    }
+
+    .pace-progress {
+        background: #29d;
+        position: fixed;
+        z-index: 2000;
+        top: 0;
+        right: 100%;
+        width: 100%;
+        height: 2px;
+    }
+
+}
+
+// Own CSS
+
+@mixin margin-center() {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100vw;
+}
+
+
+a, .page-link {
+    transition: .35s;
+    text-align: right;
+    &:hover {
+        color: $link-hover-color;
+        text-decoration: none;
+        transition: .35s;
+    }
+}
+
+.navbar-default {
+    background-color: #fff;
+    border: none;
+    .navbar-toggle {
+        border: none;
+
+        &:hover {
+            background-color: transparent;
+        }
+    }
+    .navbar-collapse {
+        border: none;
+        .navbar-nav {
+            padding-right: 15px;
+            margin-top: 0;
+            a {
+                padding-top: 0;
+                padding-bottom: 10px;
+            }
+        }
+    }
+}
+
+.home {
+    .portfolio-img {
+        border-radius: 100%;
+    }
+}
+
+.page-content {
+    padding: 0;
+    top: $navbar-height;
+    position: relative;
+    .post {
+        &-title {
+            font-size: $font-size-base * 2;
+        }
+        &-link {
+            text-align: left;
+        }
+    }
+    .home {
+        margin-top: -$navbar-height;
+        display: table;
+        height: 100vh;
+        &-content {
+            display: table-cell;
+            vertical-align: middle;
+            @include margin-center();
+        }
+    }
+    
+}
+
+.about {
+    font-size: $font-size-large - 2;
+    #conexco {
+        color: #e50065;
+        &:hover {
+            color: #e50065;
+            text-decoration: underline;
+        }
+    }
+}
+
+
+.headline {
+    @include proxima-nova(300);
+    font-size: 34px;
+    transition: .25s;
+    margin-top: 30px;
+    text-align: center;
+
+    /*     
+    &:hover {
+        color: rgba(0, 0, 0, 0.3);
+        transition: .25s;
+    }
+    
+    &.active {
+        &:hover {
+            color: $main-color;
+            transition: .35s;
+            padding-left: 20px;
+            transition-timing-function: ease-out;
+        }
+    }
+    
+    &.inactive {
+        color: rgba(0, 0, 0, 0.3);
+    }
+    */
+}
+
+.fa.fa-chevron-left {
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+@media (min-width: $screen-sm-min) {
+}
+
+@media (min-width: $screen-md-min) {
+    /* @import "animate"; */
+    .headline {
+        font-size: 44px;
+        text-align: left;
+    }
+}
+
+@media (min-width: $screen-lg-min) {
+}
