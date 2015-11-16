@@ -1,0 +1,53 @@
+/*
+Error: Invalid CSS after "...imation-delay: ": expected expression (e.g. 1px, bold), was "@delay;"
+        on line 8 of /Applications/MAMP/htdocs/kirby/assets/less/animate/animate.scss
+
+3:     animation-duration: 1s;
+4:     -webkit-animation-fill-mode: both;
+5:     animation-fill-mode: both;
+6:     @delay: 0.5s;
+7:     &-designer {
+8:         -webkit-animation-delay: @delay;
+9:         animation-delay: @delay;
+10:     }
+11:     &-developer {
+12:         -webkit-animation-delay: (@delay)*2;
+13:         animation-delay: (@delay)*2;
+
+Backtrace:
+/Applications/MAMP/htdocs/kirby/assets/less/animate/animate.scss:8
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:1161:in `expected'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/script/lexer.rb:221:in `expected!'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/script/parser.rb:571:in `assert_expr'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/script/parser.rb:62:in `parse'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:1023:in `sass_script'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:876:in `value!'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:749:in `block in try_declaration'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:1137:in `call'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:1137:in `rethrow'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:762:in `try_declaration'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:692:in `declaration_or_ruleset'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:657:in `block_child'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:646:in `block_contents'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:638:in `block'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:707:in `declaration_or_ruleset'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:657:in `block_child'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:649:in `block_contents'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:638:in `block'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:631:in `ruleset'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:656:in `block_child'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:646:in `block_contents'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:117:in `stylesheet'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:42:in `parse'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:403:in `_to_tree'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:278:in `render'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/sass_scss.rb:420:in `run'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/sass_scss.rb:63:in `process_result'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/base.rb:52:in `parse'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/base.rb:19:in `parse!'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/bin/scss:13:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid CSS after \"...imation-delay: \": expected expression (e.g. 1px, bold), was \"@delay;\"\A         on line 8 of /Applications/MAMP/htdocs/kirby/assets/less/animate/animate.scss\A \A 3:     animation-duration: 1s;\A 4:     -webkit-animation-fill-mode: both;\A 5:     animation-fill-mode: both;\A 6:     @delay: 0.5s;\A 7:     &-designer {\A 8:         -webkit-animation-delay: @delay;\A 9:         animation-delay: @delay;\A 10:     }\A 11:     &-developer {\A 12:         -webkit-animation-delay: (@delay)*2;\A 13:         animation-delay: (@delay)*2;"; }

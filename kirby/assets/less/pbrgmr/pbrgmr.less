@@ -1,0 +1,162 @@
+@import "../bootstrap/bootstrap.less";
+@import "../kirby/main.less";
+@import "../animate/animate.less";
+
+h1, h2, h3, h4, h5, h6 {
+    &:not(.animated), & a {
+        font-family: "quatro-slab", serif, "Helvetica", sans-serif;
+        font-style: normal;
+        font-weight: 400;
+    }
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+    font-family: "proxima-nova", sans-serif !important;
+    font-style: normal;
+    font-weight: 400;
+}
+
+header {
+    border-bottom: none;
+    .navbar {
+        &-brand {
+            display: block;
+            float: none;
+        }
+        &-default {
+            border-color: transparent;
+            background-color: #fff;
+            .navbar {
+                &-toggle {
+                    border-color: transparent;
+                    &:focus, &:hover {
+                        background-color: transparent;
+                    }
+                }
+                &-collapse, &-form {
+                    border-color: transparent;
+                }
+                &-brand {
+                    &a {
+                        &:hover {
+                            color: #000;
+                        }
+                    }
+                }
+            }
+        }
+        &-nav {
+            margin-top: 0;
+            a {
+                padding-right: 30px;
+                font-size: @font-size-base + 2;
+            }
+        }
+        &.nav-up {
+            top: -51px;
+            .collapse.in {
+                display: none;
+            }
+        }
+    }
+}
+
+.dropdown.open .dropdown-menu {
+    display: none;
+}
+
+
+
+.main {
+    margin-top: @navbar-height;
+    min-height: 95vh;
+    font-size: @font-size-base + 2;
+    a:hover {
+        text-decoration: none;
+    }
+    border-bottom: none;
+    .home {
+        margin-top: -@navbar-height;
+        display: table;
+        height: 100vh;
+        &-content {
+            display: table-cell;
+            vertical-align: middle;
+            margin-left: auto;
+            margin-right: auto;
+            width: 100vw;
+            h2 {
+                font-size: @font-size-large * 1.75;
+            }
+        }
+    }
+    .text {
+        p {
+            font-size: @font-size-large;
+        }
+        h1 {
+            padding-top: 30px;
+        }
+        #conexco {
+            color: #e50065;
+        }
+    }
+    ul {
+        &:not(.meta) {        
+            list-style-type: none;
+            margin-left: 0;
+            li:not(:first-child) {
+                padding-top: 5px;
+            }
+        }
+    }
+    .about-img {
+        img {
+            border-radius: 100%;
+            width: 50%;
+            display: block;
+            margin: 0 auto;
+        }
+    }
+}
+
+footer {
+    font-size: @font-size-base;
+    .colophon {
+        float: none;
+        margin-bottom: 15px;
+    }
+}
+
+@media (min-width: @screen-sm-min) {
+    header {
+        .navbar {
+            &-nav {
+                float: right;
+            }
+        }
+    }
+    .main {
+        p {
+            margin-bottom: .25em;
+        }
+        .teaser {
+            p {
+                margin-bottom: 1.5em;
+            }
+        }
+    }
+}
+
+@media (min-width: @screen-md-min) {
+    .main {
+        .text {
+            p {
+                font-size: @font-size-large;
+            }
+        }
+    }
+}

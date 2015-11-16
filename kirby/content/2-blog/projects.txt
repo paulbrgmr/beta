@@ -1,0 +1,5 @@
+Title: Blog
+
+----
+
+Text: In this blog, I'll write in german (my native language) and english.

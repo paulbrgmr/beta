@@ -1,0 +1,14 @@
+Title: About
+
+----
+
+Text: 
+##Hey there, I'm Paul!
+
+<p>A frontend developer and media designer living and working in Munich, the metropolis with heart.</p>
+<p>Currently, I'm in a apprenticeship at <a href="http://www.conexco.com/" id="conexco" target="_blank">conexco</a>.</p>
+
+### Get in touch
+
+- (link: http://github.com/paulbrgmr text: Me on Github)
+- <hello@pbergmeir.com>
