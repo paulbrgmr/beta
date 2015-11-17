@@ -1680,6 +1680,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/jekyll\/_site\/about.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/jekyll\/_site\/about.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/jekyll\/_site\/about\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -4172,6 +4181,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/kirby\/kirby\/test\/etc\/kirbytext\/input-with-placeholder\/expected.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/kirby\/test\/etc\/kirbytext\/input-with-placeholder\/expected.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/kirby\/kirby\/test\/etc\/kirbytext\/link-with-class\/expected.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5352,155 +5370,137 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/controllers\/api\/avatars.php": {
+	"\/kirby\/panel\/app\/config\/routes.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/api\/avatars.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/config\/routes.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/controllers\/api\/errors.php": {
+	"\/kirby\/panel\/app\/controllers\/assets.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/api\/errors.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/assets.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/controllers\/api\/files.php": {
+	"\/kirby\/panel\/app\/controllers\/auth.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/api\/files.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/auth.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/controllers\/api\/helpers.php": {
+	"\/kirby\/panel\/app\/controllers\/autocomplete.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/api\/helpers.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/autocomplete.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/controllers\/api\/pages.php": {
+	"\/kirby\/panel\/app\/controllers\/avatars.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/api\/pages.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/avatars.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/controllers\/api\/users.php": {
+	"\/kirby\/panel\/app\/controllers\/dashboard.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/api\/users.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/dashboard.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/controllers\/views\/app.php": {
+	"\/kirby\/panel\/app\/controllers\/error.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/views\/app.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/error.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/controllers\/views\/auth.php": {
+	"\/kirby\/panel\/app\/controllers\/field.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/views\/auth.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/field.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/controllers\/views\/dashboard.php": {
+	"\/kirby\/panel\/app\/controllers\/files.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/views\/dashboard.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/files.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/controllers\/views\/editor.php": {
+	"\/kirby\/panel\/app\/controllers\/installation.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/views\/editor.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/installation.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/controllers\/views\/errors.php": {
+	"\/kirby\/panel\/app\/controllers\/options.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/views\/errors.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/options.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/controllers\/views\/files.php": {
+	"\/kirby\/panel\/app\/controllers\/pages.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/views\/files.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/pages.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/controllers\/views\/installation.php": {
+	"\/kirby\/panel\/app\/controllers\/search.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/views\/installation.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/search.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/controllers\/views\/metatags.php": {
+	"\/kirby\/panel\/app\/controllers\/subpages.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/views\/metatags.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/subpages.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/controllers\/views\/pages.php": {
+	"\/kirby\/panel\/app\/controllers\/users.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/views\/pages.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/controllers\/views\/subpages.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/views\/subpages.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/controllers\/views\/users.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/views\/users.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/controllers\/users.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5532,65 +5532,12 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/fields\/date\/assets\/css\/pikaday.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/date\/assets\/css\/pikaday.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/kirby\/panel\/app\/fields\/date\/assets\/js\/date.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/date\/assets\/js\/date.js",
 		"outputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/date\/assets\/js\/min\/date-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/kirby\/panel\/app\/fields\/date\/assets\/js\/moment.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/date\/assets\/js\/moment.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/date\/assets\/js\/min\/moment-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/kirby\/panel\/app\/fields\/date\/assets\/js\/moment.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/date\/assets\/js\/moment.min.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/date\/assets\/js\/min\/moment.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/kirby\/panel\/app\/fields\/date\/assets\/js\/pikaday.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/date\/assets\/js\/pikaday.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/date\/assets\/js\/min\/pikaday-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/kirby\/panel\/app\/fields\/date\/assets\/js\/pikaday.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/date\/assets\/js\/pikaday.min.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/date\/assets\/js\/min\/pikaday.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5605,11 +5552,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/kirby\/panel\/app\/fields\/datetime\/datetime.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/datetime\/datetime.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/kirby\/panel\/app\/fields\/email\/email.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/email\/email.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/fields\/filename\/filename.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/filename\/filename.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5695,17 +5660,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/fields\/password\/assets\/js\/password.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/password\/assets\/js\/password.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/password\/assets\/js\/min\/password-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/kirby\/panel\/app\/fields\/password\/password.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5753,11 +5707,65 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/kirby\/panel\/app\/fields\/structure\/controller.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/structure\/controller.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/fields\/structure\/forms\/add.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/structure\/forms\/add.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/fields\/structure\/forms\/delete.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/structure\/forms\/delete.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/fields\/structure\/forms\/update.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/structure\/forms\/update.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/kirby\/panel\/app\/fields\/structure\/structure.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/structure\/structure.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/fields\/structure\/styles\/items.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/structure\/styles\/items.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/fields\/structure\/styles\/table.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/structure\/styles\/table.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5771,27 +5779,32 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/fields\/tags\/assets\/js\/tags.js": {
-		"fileType": 64,
+	"\/kirby\/panel\/app\/fields\/structure\/views\/add.php": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/tags\/assets\/js\/tags.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/tags\/assets\/js\/min\/tags-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/structure\/views\/add.php",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/fields\/tags\/assets\/js\/tags.min.js": {
-		"fileType": 64,
+	"\/kirby\/panel\/app\/fields\/structure\/views\/delete.php": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/tags\/assets\/js\/tags.min.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/tags\/assets\/js\/min\/tags.min-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/structure\/views\/delete.php",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/fields\/structure\/views\/update.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/structure\/views\/update.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/kirby\/panel\/app\/fields\/tags\/tags.php": {
 		"fileType": 8192,
@@ -5811,6 +5824,26 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/kirby\/panel\/app\/fields\/text\/assets\/css\/counter.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/text\/assets\/css\/counter.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/fields\/text\/assets\/js\/counter.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/text\/assets\/js\/counter.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/text\/assets\/js\/min\/counter-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/kirby\/panel\/app\/fields\/text\/text.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5819,28 +5852,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/fields\/textarea\/assets\/js\/autosize.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/textarea\/assets\/js\/autosize.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/textarea\/assets\/js\/min\/autosize-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/kirby\/panel\/app\/fields\/textarea\/assets\/js\/autosize.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/textarea\/assets\/js\/autosize.min.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/textarea\/assets\/js\/min\/autosize.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
 		},
 	"\/kirby\/panel\/app\/fields\/textarea\/assets\/js\/editor.js": {
 		"fileType": 64,
@@ -5862,11 +5873,56 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/kirby\/panel\/app\/fields\/textarea\/controller.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/textarea\/controller.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/fields\/textarea\/forms\/email.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/textarea\/forms\/email.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/fields\/textarea\/forms\/link.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/textarea\/forms\/link.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/kirby\/panel\/app\/fields\/textarea\/textarea.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/textarea\/textarea.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/fields\/textarea\/views\/email.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/textarea\/views\/email.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/fields\/textarea\/views\/link.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/fields\/textarea\/views\/link.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5916,56 +5972,137 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/forms\/installation.php": {
+	"\/kirby\/panel\/app\/forms\/auth\/login.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/installation.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/auth\/login.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/forms\/login.php": {
+	"\/kirby\/panel\/app\/forms\/avatars\/delete.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/login.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/avatars\/delete.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/forms\/pages.add.php": {
+	"\/kirby\/panel\/app\/forms\/editor\/email.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/pages.add.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/editor\/email.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/forms\/pages.toggle.php": {
+	"\/kirby\/panel\/app\/forms\/editor\/link.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/pages.toggle.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/editor\/link.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/forms\/user.add.php": {
+	"\/kirby\/panel\/app\/forms\/files\/delete.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/user.add.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/files\/delete.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/forms\/user.edit.php": {
+	"\/kirby\/panel\/app\/forms\/files\/edit.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/user.edit.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/files\/edit.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/forms\/installation\/check.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/installation\/check.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/forms\/installation\/signup.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/installation\/signup.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/forms\/pages\/add.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/pages\/add.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/forms\/pages\/delete.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/pages\/delete.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/forms\/pages\/edit.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/pages\/edit.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/forms\/pages\/toggle.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/pages\/toggle.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/forms\/pages\/url.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/pages\/url.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/forms\/users\/delete.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/users\/delete.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/forms\/users\/user.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/forms\/users\/user.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5979,204 +6116,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/languages\/ar.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/ar.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/cz.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/cz.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/da.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/da.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/de.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/de.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/en.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/en.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/es_LA.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/es_LA.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/fa.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/fa.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/fi.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/fi.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/fr.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/fr.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/hu.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/hu.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/id.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/id.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/it.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/it.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/nl.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/nl.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/no_nb.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/no_nb.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/pl.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/pl.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/pt_BR.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/pt_BR.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/pt_PT.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/pt_PT.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/ro.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/ro.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/ru.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/ru.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/sv_SE.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/sv_SE.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/tr.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/tr.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/languages\/zh_TW.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/languages\/zh_TW.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/kirby\/panel\/app\/layouts\/app.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -6186,254 +6125,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/layouts\/error.php": {
+	"\/kirby\/panel\/app\/layouts\/base.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/layouts\/error.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/layouts\/base.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/layouts\/installation.php": {
+	"\/kirby\/panel\/app\/layouts\/fatal.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/layouts\/installation.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/layouts\/login.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/layouts\/login.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/api.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/api.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/assets.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/assets.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/blueprint.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/blueprint.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/blueprint\/field.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/blueprint\/field.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/blueprint\/fields.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/blueprint\/fields.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/blueprint\/files.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/blueprint\/files.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/blueprint\/pages.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/blueprint\/pages.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/controller.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/controller.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/fieldoptions.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/fieldoptions.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/filedata.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/filedata.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/form.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/form.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/history.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/history.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/installation.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/installation.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/layout.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/layout.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/pagedata.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/pagedata.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/pagestore.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/pagestore.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/snippet.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/snippet.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/subpages.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/subpages.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/view.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/view.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/lib\/widgets.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/lib\/widgets.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/panel.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/panel.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/panel\/roots.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/panel\/roots.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/panel\/urls.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/panel\/urls.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/routes\/api.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/routes\/api.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/routes\/views.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/routes\/views.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/layouts\/fatal.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6474,29 +6179,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/snippets\/pages\/breadcrumb.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/snippets\/pages\/breadcrumb.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/snippets\/pages\/search\/topbar.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/snippets\/pages\/search\/topbar.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/kirby\/panel\/app\/snippets\/pages\/sidebar.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kirby\/panel\/app\/snippets\/pages\/sidebar.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/snippets\/pages\/sidebar\/file.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/snippets\/pages\/sidebar\/file.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6528,20 +6224,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/snippets\/pages\/topbar.php": {
+	"\/kirby\/panel\/app\/snippets\/pagination.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/snippets\/pages\/topbar.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/snippets\/pagination.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/snippets\/subpages\/pagination.php": {
+	"\/kirby\/panel\/app\/snippets\/search.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/snippets\/subpages\/pagination.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/snippets\/search.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6555,11 +6251,993 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/snippets\/topbar.php": {
+	"\/kirby\/panel\/app\/snippets\/uploader.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/snippets\/topbar.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/snippets\/uploader.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/autocomplete.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/autocomplete.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/collections\/children.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/collections\/children.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/collections\/files.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/collections\/files.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/collections\/users.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/collections\/users.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/controllers\/base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/controllers\/base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/controllers\/field.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/controllers\/field.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/form.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/form.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/form\/fieldoptions.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/form\/fieldoptions.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/form\/plugins.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/form\/plugins.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/installer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/installer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/layout.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/layout.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/login.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/login.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/file.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/file.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/file\/menu.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/file\/menu.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/page.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/page.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/page\/addbutton.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/page\/addbutton.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/page\/blueprint.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/page\/blueprint.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/page\/blueprint\/field.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/page\/blueprint\/field.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/page\/blueprint\/fields.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/page\/blueprint\/fields.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/page\/blueprint\/files.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/page\/blueprint\/files.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/page\/blueprint\/pages.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/page\/blueprint\/pages.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/page\/changes.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/page\/changes.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/page\/menu.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/page\/menu.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/page\/sidebar.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/page\/sidebar.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/page\/sorter.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/page\/sorter.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/page\/uploader.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/page\/uploader.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/site.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/site.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/user.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/user.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/user\/avatar.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/user\/avatar.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/user\/blueprint.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/user\/blueprint.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/models\/user\/history.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/models\/user\/history.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/roots.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/roots.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/search.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/search.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/snippet.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/snippet.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/structure.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/structure.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/structure\/store.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/structure\/store.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/topbar.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/topbar.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/translation.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/translation.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/upload.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/upload.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/urls.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/urls.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/view.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/view.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/src\/panel\/widgets.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/src\/panel\/widgets.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/topbars\/error.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/topbars\/error.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/topbars\/user.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/topbars\/user.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/translations\/ar\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/ar\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/ar\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/ar\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/ar\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/ar\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/ca\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/ca\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/ca\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/ca\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/ca\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/ca\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/cs\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/cs\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/cs\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/cs\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/cs\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/cs\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/da\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/da\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/da\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/da\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/da\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/da\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/de\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/de\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/de\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/de\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/de\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/de\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/en\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/en\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/en\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/en\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/en\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/en\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/es_419\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/es_419\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/es_419\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/es_419\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/es_419\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/es_419\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/es_ES\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/es_ES\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/es_ES\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/es_ES\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/es_ES\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/es_ES\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/fa\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/fa\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/fa\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/fa\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/fa\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/fa\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/fi\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/fi\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/fi\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/fi\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/fi\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/fi\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/fr\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/fr\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/fr\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/fr\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/fr\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/fr\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/hu\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/hu\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/hu\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/hu\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/hu\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/hu\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/id\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/id\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/id\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/id\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/id\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/id\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/it\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/it\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/it\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/it\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/it\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/it\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/nb\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/nb\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/nb\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/nb\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/nb\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/nb\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/nl\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/nl\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/nl\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/nl\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/nl\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/nl\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/pl\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/pl\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/pl\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/pl\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/pl\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/pl\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/pt_BR\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/pt_BR\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/pt_BR\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/pt_BR\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/pt_BR\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/pt_BR\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/pt_PT\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/pt_PT\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/pt_PT\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/pt_PT\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/pt_PT\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/pt_PT\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/ro\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/ro\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/ro\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/ro\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/ro\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/ro\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/ru\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/ru\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/ru\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/ru\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/ru\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/ru\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/sv_SE\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/sv_SE\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/sv_SE\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/sv_SE\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/sv_SE\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/sv_SE\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/tr\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/tr\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/tr\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/tr\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/tr\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/tr\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/zh_CN\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/zh_CN\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/zh_CN\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/zh_CN\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/zh_CN\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/zh_CN\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/zh_TW\/core.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/zh_TW\/core.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/zh_TW\/core-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/translations\/zh_TW\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/zh_TW\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/app\/translations\/zh_TW\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/kirby\/panel\/app\/views\/auth\/block.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/auth\/block.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/views\/auth\/login.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/auth\/login.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/app\/views\/avatars\/delete.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/avatars\/delete.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6573,47 +7251,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/views\/editor\/email.php": {
+	"\/kirby\/panel\/app\/views\/error\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/editor\/email.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/error\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/views\/editor\/link.php": {
+	"\/kirby\/panel\/app\/views\/error\/modal.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/editor\/link.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/views\/editor\/structure.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/editor\/structure.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/views\/errors\/index.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/errors\/index.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/views\/errors\/modal.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/errors\/modal.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/error\/modal.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6627,6 +7278,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/kirby\/panel\/app\/views\/files\/edit.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/files\/edit.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/kirby\/panel\/app\/views\/files\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -6636,65 +7296,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/views\/files\/replace.php": {
+	"\/kirby\/panel\/app\/views\/installation\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/files\/replace.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/installation\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/views\/files\/show.php": {
+	"\/kirby\/panel\/app\/views\/options\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/files\/show.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/views\/files\/upload.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/files\/upload.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/views\/installation\/check.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/installation\/check.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/views\/installation\/migrate.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/installation\/migrate.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/views\/installation\/signup.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/installation\/signup.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/views\/metatags\/index.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/metatags\/index.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/options\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6717,20 +7332,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kirby\/panel\/app\/views\/pages\/search.php": {
+	"\/kirby\/panel\/app\/views\/pages\/edit.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/pages\/search.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/views\/pages\/show.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/pages\/show.php",
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/pages\/edit.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6753,29 +7359,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/kirby\/panel\/app\/views\/search\/results.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/search\/results.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/kirby\/panel\/app\/views\/subpages\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/subpages\/index.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/views\/users\/avatar.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/users\/avatar.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/kirby\/panel\/app\/views\/users\/delete-avatar.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/app\/views\/users\/delete-avatar.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6897,11 +7494,38 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/kirby\/panel\/assets\/css\/form.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/css\/form.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/assets\/css\/form.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/css\/form.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/kirby\/panel\/assets\/css\/panel.css": {
 		"fileType": 16,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/css\/panel.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/assets\/css\/panel.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/css\/panel.min.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6939,408 +7563,474 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/kirby\/panel\/assets\/js\/apps\/main.js": {
+	"\/kirby\/panel\/assets\/images\/placeholder.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98,
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/images\/placeholder.png",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/images\/placeholder.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/kirby\/panel\/assets\/js\/dist\/app.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/apps\/main.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/apps\/min\/main-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/dist\/app.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/dist\/min\/app-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/components\/breadcrumb.js": {
+	"\/kirby\/panel\/assets\/js\/dist\/app.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/components\/breadcrumb.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/components\/min\/breadcrumb-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/dist\/app.min.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/dist\/min\/app.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/components\/dropdown.js": {
+	"\/kirby\/panel\/assets\/js\/dist\/form.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/components\/dropdown.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/components\/min\/dropdown-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/dist\/form.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/dist\/min\/form-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/components\/dropzone.js": {
+	"\/kirby\/panel\/assets\/js\/dist\/form.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/components\/dropzone.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/components\/min\/dropzone-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/dist\/form.min.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/dist\/min\/form.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/components\/form.js": {
+	"\/kirby\/panel\/assets\/js\/dist\/panel.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/components\/form.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/components\/min\/form-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/dist\/panel.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/dist\/min\/panel-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/components\/message.js": {
+	"\/kirby\/panel\/assets\/js\/dist\/panel.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/components\/message.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/components\/min\/message-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/dist\/panel.min.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/dist\/min\/panel.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/components\/sidebar.js": {
+	"\/kirby\/panel\/assets\/js\/src\/app.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/components\/sidebar.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/components\/min\/sidebar-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/app.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/min\/app-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/config\/config.js": {
+	"\/kirby\/panel\/assets\/js\/src\/components\/breadcrumb.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/config\/config.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/config\/min\/config-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/breadcrumb.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/min\/breadcrumb-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/config\/routes.js": {
+	"\/kirby\/panel\/assets\/js\/src\/components\/content.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/config\/routes.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/config\/min\/routes-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/content.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/min\/content-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/controllers\/dashboard.js": {
+	"\/kirby\/panel\/assets\/js\/src\/components\/delay.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/controllers\/dashboard.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/controllers\/min\/dashboard-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/delay.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/min\/delay-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/controllers\/editor.js": {
+	"\/kirby\/panel\/assets\/js\/src\/components\/dropdown.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/controllers\/editor.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/controllers\/min\/editor-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/dropdown.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/min\/dropdown-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/controllers\/errors.js": {
+	"\/kirby\/panel\/assets\/js\/src\/components\/focus.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/controllers\/errors.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/controllers\/min\/errors-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/focus.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/min\/focus-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/controllers\/files.js": {
+	"\/kirby\/panel\/assets\/js\/src\/components\/form.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/controllers\/files.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/controllers\/min\/files-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/form.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/min\/form-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/controllers\/metatags.js": {
+	"\/kirby\/panel\/assets\/js\/src\/components\/message.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/controllers\/metatags.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/controllers\/min\/metatags-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/message.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/min\/message-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/controllers\/pages.js": {
+	"\/kirby\/panel\/assets\/js\/src\/components\/modal.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/controllers\/pages.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/controllers\/min\/pages-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/modal.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/min\/modal-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/controllers\/subpages.js": {
+	"\/kirby\/panel\/assets\/js\/src\/components\/search.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/controllers\/subpages.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/controllers\/min\/subpages-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/search.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/min\/search-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/controllers\/users.js": {
+	"\/kirby\/panel\/assets\/js\/src\/components\/shortcuts.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/controllers\/users.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/controllers\/min\/users-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/shortcuts.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/min\/shortcuts-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/models\/file.js": {
+	"\/kirby\/panel\/assets\/js\/src\/components\/sidebar.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/models\/file.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/models\/min\/file-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/sidebar.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/min\/sidebar-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/models\/page.js": {
+	"\/kirby\/panel\/assets\/js\/src\/components\/uploader.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/models\/page.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/models\/min\/page-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/uploader.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/components\/min\/uploader-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/models\/user.js": {
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/jquery.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/models\/user.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/models\/min\/user-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/jquery.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/min\/jquery-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/panel.js": {
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.autocomplete.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/panel.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/min\/panel-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.autocomplete.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.autocomplete-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/panel\/shortcuts.js": {
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.autosize.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/panel\/shortcuts.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/panel\/min\/shortcuts-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.autosize.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.autosize-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/panel\/slug.js": {
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.center.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/panel\/slug.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/panel\/min\/slug-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.center.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.center-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/panel\/views.js": {
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.context.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/panel\/views.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/panel\/min\/views-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.context.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.context-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/vendors\/dropzone.js": {
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.drop.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/dropzone.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/min\/dropzone-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.drop.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.drop-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/vendors\/handlebars.js": {
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.dropload.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/handlebars.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/min\/handlebars-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.dropload.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.dropload-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/vendors\/http.js": {
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.editorHelpers.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/http.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/min\/http-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.editorHelpers.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.editorHelpers-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/vendors\/jquery.autocomplete.js": {
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.fakefocus.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/jquery.autocomplete.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/min\/jquery.autocomplete-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.fakefocus.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.fakefocus-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/vendors\/jquery.editorHelpers.js": {
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.filedrop.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/jquery.editorHelpers.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/min\/jquery.editorHelpers-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.filedrop.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.filedrop-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/vendors\/jquery.hotkeys.js": {
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.filereader.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/jquery.hotkeys.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/min\/jquery.hotkeys-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.filereader.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.filereader-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/vendors\/jquery.js": {
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.hotkeys.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/jquery.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/min\/jquery-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.hotkeys.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.hotkeys-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/vendors\/jquery.passwordsuggestion.js": {
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.passwordsuggestion.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/jquery.passwordsuggestion.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/min\/jquery.passwordsuggestion-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.passwordsuggestion.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.passwordsuggestion-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/vendors\/jquery.serializeObject.js": {
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.serializeobject.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/jquery.serializeObject.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/min\/jquery.serializeObject-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.serializeobject.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.serializeobject-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/vendors\/jquery.ui.js": {
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.slug.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/jquery.ui.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/min\/jquery.ui-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.slug.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.slug-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/vendors\/jquery.ui.touch.js": {
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.tags.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/jquery.ui.touch.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/min\/jquery.ui.touch-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.tags.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.tags-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/vendors\/jquery.view.js": {
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.token.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/jquery.view.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/min\/jquery.view-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.token.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.token-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/kirby\/panel\/assets\/js\/vendors\/routie.js": {
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.ui.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/routie.js",
-		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/vendors\/min\/routie-min.js",
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.ui.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.ui-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.ui.touch.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.ui.touch.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.ui.touch-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.upload.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/jquery.upload.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/jquery\/plugins\/min\/jquery.upload-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/kirby\/panel\/assets\/js\/src\/plugins\/moment.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/plugins\/moment.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/plugins\/min\/moment-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/kirby\/panel\/assets\/js\/src\/plugins\/nprogress.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/plugins\/nprogress.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/plugins\/min\/nprogress-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/kirby\/panel\/assets\/js\/src\/plugins\/pikaday.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/plugins\/pikaday.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/js\/src\/plugins\/min\/pikaday-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7371,6 +8061,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/scss\/components\/_avatar.scss",
 		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/scss\/css\/_avatar.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/kirby\/panel\/assets\/scss\/components\/_body.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/scss\/components\/_body.scss",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/scss\/css\/_body.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -7410,6 +8116,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/kirby\/panel\/assets\/scss\/components\/_counter.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/scss\/components\/_counter.scss",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/scss\/css\/_counter.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/kirby\/panel\/assets\/scss\/components\/_dashboard.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -7426,6 +8148,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/kirby\/panel\/assets\/scss\/components\/_dragula.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/scss\/components\/_dragula.scss",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/scss\/css\/_dragula.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/kirby\/panel\/assets\/scss\/components\/_dropdown.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -7435,6 +8173,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/scss\/components\/_dropdown.scss",
 		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/scss\/css\/_dropdown.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/kirby\/panel\/assets\/scss\/components\/_dropload.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/scss\/components\/_dropload.scss",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/scss\/css\/_dropload.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -7762,6 +8516,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/kirby\/panel\/assets\/scss\/components\/_nprogress.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/scss\/components\/_nprogress.scss",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/scss\/css\/_nprogress.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/kirby\/panel\/assets\/scss\/components\/_pagination.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -7771,6 +8541,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/scss\/components\/_pagination.scss",
 		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/scss\/css\/_pagination.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/kirby\/panel\/assets\/scss\/components\/_pikaday.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/assets\/scss\/components\/_pikaday.scss",
+		"outputAbbreviatedPath": "\/kirby\/panel\/assets\/scss\/css\/_pikaday.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -7938,6 +8724,17 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/kirby\/panel\/gulpfile.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/gulpfile.js",
+		"outputAbbreviatedPath": "\/kirby\/panel\/min\/gulpfile-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/kirby\/panel\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -7946,6 +8743,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/kirby\/panel\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
 		},
 	"\/kirby\/panel\/readme.md": {
 		"criticStyle": 0,
@@ -7967,6 +8775,152 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
+		},
+	"\/kirby\/panel\/tests\/dummy\/images\/forrest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8868,
+		"inputAbbreviatedPath": "\/kirby\/panel\/tests\/dummy\/images\/forrest.jpg",
+		"outputAbbreviatedPath": "\/kirby\/panel\/tests\/dummy\/images\/forrest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/kirby\/panel\/tests\/dummy\/site\/blueprints\/alphabet.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/tests\/dummy\/site\/blueprints\/alphabet.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/tests\/dummy\/site\/blueprints\/blog.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/tests\/dummy\/site\/blueprints\/blog.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/tests\/dummy\/site\/blueprints\/default.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/tests\/dummy\/site\/blueprints\/default.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/tests\/lib\/bootstrap.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/tests\/lib\/bootstrap.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/tests\/lib\/testcase.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/tests\/lib\/testcase.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/tests\/tests\/AutocompleteTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/tests\/tests\/AutocompleteTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/tests\/tests\/ChangesTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/tests\/tests\/ChangesTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/tests\/tests\/FileModelTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/tests\/tests\/FileModelTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/tests\/tests\/HistoryTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/tests\/tests\/HistoryTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/tests\/tests\/NumberingTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/tests\/tests\/NumberingTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/tests\/tests\/PageModelTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/tests\/tests\/PageModelTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/tests\/tests\/PanelTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/tests\/tests\/PanelTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/tests\/tests\/SiteModelTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/tests\/tests\/SiteModelTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/tests\/tests\/StructureTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/tests\/tests\/StructureTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/panel\/tests\/tests\/UserModelTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/panel\/tests\/tests\/UserModelTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/kirby\/readme.md": {
 		"criticStyle": 0,
