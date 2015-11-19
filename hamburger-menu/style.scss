@@ -1,0 +1,128 @@
+.icon-wrapper {
+    width: 24px;
+    margin: 50px auto;
+    .icon-bar {
+        background-color: #888;
+        height: 2px;
+        width: 22px;
+        border-radius: 1px;
+        display: block;
+        + .icon-bar {
+            margin-top: 4px;
+        }
+    }
+    &:hover {
+        $duration: .25s;
+        $position0: 0;
+        $position50: 4px;
+        $position75: 5px;
+        $position100: 5px;
+        $rotation0: 0deg;
+        $rotation50: 0deg;
+        $rotation75: 22.25deg;
+        $rotation100: 45deg;
+        .icon-bar-top {
+            -webkit-animation: bar-top $duration; /* Chrome, Safari */
+            -webkit-animation-iteration-count: 1;
+            -webkit-animation-fill-mode: forwards;
+            animation: bar-top $duration; /* Standard syntax */
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards;
+            position: relative;
+            
+            @mixin menu-animation() {
+                0% {
+                    top: $position0;
+                    transform: rotate($rotation0);
+                }
+                50% {
+                    top: $position50;
+                    transform: rotate($rotation50);
+                }
+                75% {
+                    top: $position75;
+                    transform: rotate(-$rotation75);
+                }
+                100% {
+                    top: 6px;
+                    transform: rotate(-$rotation100);
+                }
+            }
+            /* Chrome, Safari, Opera */
+            @-webkit-keyframes bar-top {
+                @include menu-animation();
+            }
+            
+            /* Standard syntax */
+            @keyframes bar-top {
+                @include menu-animation();
+            }
+        }
+        .icon-bar-middle {
+            -webkit-animation: bar-middle $duration; /* Chrome, Safari */
+            -webkit-animation-iteration-count: 1;
+            -webkit-animation-fill-mode: forwards;
+            animation: bar-middle $duration; /* Standard syntax */
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards;
+            
+            @mixin menu-animation() {
+                0% {
+                    opacity: 1;
+                }
+                50% {
+                    opacity: 0;
+                }
+                100% {
+                    opacity: 0;
+                }
+            }
+            /* Chrome, Safari, Opera */
+            @-webkit-keyframes bar-middle {
+                @include menu-animation();
+            }
+            
+            /* Standard syntax */
+            @keyframes bar-middle {
+                @include menu-animation();
+            }
+        }
+        .icon-bar-bottom {
+            -webkit-animation: bar-borrom $duration; /* Chrome, Safari */
+            -webkit-animation-iteration-count: 1;
+            -webkit-animation-fill-mode: forwards;
+            animation: bar-borrom $duration; /* Standard syntax */
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards;
+            position: relative;
+            
+            @mixin menu-animation() {
+                0% {
+                    top: $position0;
+                    transform: rotate($rotation0);
+                }
+                50% {
+                    top: -$position50;
+                    transform: rotate($rotation50);
+                }
+                75% {
+                    top: -$position75;
+                    transform: rotate($rotation75);
+                }
+                100% {
+                    top: -$position100;
+                    transform: rotate($rotation100);
+                }
+            }
+            /* Chrome, Safari, Opera */
+            @-webkit-keyframes bar-borrom {
+                @include menu-animation();
+            }
+            
+            /* Standard syntax */
+            @keyframes bar-borrom {
+                @include menu-animation();
+            }
+        }
+    }
+}
