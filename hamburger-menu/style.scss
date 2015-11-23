@@ -1,14 +1,5 @@
 @import "../../_offline/bootstrap_scss/_bootstrap";
 
-/* 
-menu when collapsed
-navbar-toggle collapsed
-
-when not collapsed
-navbar-toggle
-
- */
-
 button {
     /* width: 100%; */
     margin: 50px auto;
@@ -22,25 +13,25 @@ button {
             margin-top: 4px;
         }
     }
-    .animated {
-        $duration: .25s;
-        $position0: 0;
-        $position50: 4px;
-        $position75: 5px;
-        $position100: 6px;
-        $rotation0: 0deg;
-        $rotation50: 0deg;
-        $rotation75: 22.25deg;
-        $rotation100: 45deg;
-        @mixin animation($name) {
-            -webkit-animation: $name $duration;
-            -webkit-animation-iteration-count: 1;
-            -webkit-animation-fill-mode: forwards;
-            animation: $name $duration;
-            animation-iteration-count: 1;
-            animation-fill-mode: forwards;
-        }
-        &.icon-bar {
+    $duration: .25s;
+    $position0: 0;
+    $position50: 4px;
+    $position75: 5px;
+    $position100: 6px;
+    $rotation0: 0deg;
+    $rotation50: 0deg;
+    $rotation75: 22.25deg;
+    $rotation100: 45deg;
+    @mixin animation($name) {
+        -webkit-animation: $name $duration;
+        -webkit-animation-iteration-count: 1;
+        -webkit-animation-fill-mode: forwards;
+        animation: $name $duration;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+    }
+    &[aria-expanded=true] {
+        .icon-bar {
             &:nth-child(2) {
                 @include animation(bar-top);
                 position: relative;
@@ -124,90 +115,90 @@ button {
                 }
             }
         }
-        &-not {
-            &.icon-bar {
-                &:nth-child(2) {
-                    @include animation(bar-top-normal);
-                    position: relative;
-                    
-                    @mixin bar-top-normal() {
-                        0% {
-                            top: $position100;
-                            transform: rotate(-$rotation100);
-                        }
-                        50% {
-                            top: $position75;
-                            transform: rotate(-$rotation75);
-                        }
-                        75% {
-                            top: $position50;
-                            transform: rotate($rotation50);
-                        }
-                        100% {
-                            top: $position0;
-                            transform: rotate($rotation0);
-                        }
+    }
+    &[aria-expanded=false] {
+        .icon-bar {
+            &:nth-child(2) {
+                @include animation(bar-top-normal);
+                position: relative;
+                
+                @mixin bar-top-normal() {
+                    0% {
+                        top: $position100;
+                        transform: rotate(-$rotation100);
                     }
-                    @-webkit-keyframes bar-top-normal {
-                        @include bar-top-normal();
+                    50% {
+                        top: $position75;
+                        transform: rotate(-$rotation75);
                     }
-                    
-                    @keyframes bar-top-normal {
-                        @include bar-top-normal();
+                    75% {
+                        top: $position50;
+                        transform: rotate($rotation50);
+                    }
+                    100% {
+                        top: $position0;
+                        transform: rotate($rotation0);
                     }
                 }
-                &:nth-child(3) {
-                    @include animation(bar-middle-normal);
-                    animation-fill-mode: forwards;
-                    
-                    @mixin bar-middle-normal() {
-                        0% {
-                            opacity: 0;
-                        }
-                        50% {
-                            opacity: 0;
-                        }
-                        100% {
-                            opacity: 1;
-                        }
+                @-webkit-keyframes bar-top-normal {
+                    @include bar-top-normal();
+                }
+                
+                @keyframes bar-top-normal {
+                    @include bar-top-normal();
+                }
+            }
+            &:nth-child(3) {
+                @include animation(bar-middle-normal);
+                animation-fill-mode: forwards;
+                
+                @mixin bar-middle-normal() {
+                    0% {
+                        opacity: 0;
                     }
-                    @-webkit-keyframes bar-middle-normal {
-                        @include bar-middle-normal();
+                    50% {
+                        opacity: 0;
                     }
-                    
-                    @keyframes bar-middle-normal {
-                        @include bar-middle-normal();
+                    100% {
+                        opacity: 1;
                     }
                 }
-                &:nth-child(4) {
-                    @include animation(bar-bottom-normal);
-                    position: relative;
-                    
-                    @mixin bar-bottom-normal() {
-                        0% {
-                            top: -$position100;
-                            transform: rotate($rotation100);
-                        }
-                        50% {
-                            top: -$position75;
-                            transform: rotate($rotation75);
-                        }
-                        75% {
-                            top: -$position50;
-                            transform: rotate($rotation50);
-                        }
-                        100% {
-                            top: $position0;
-                            transform: rotate($rotation0);
-                        }
+                @-webkit-keyframes bar-middle-normal {
+                    @include bar-middle-normal();
+                }
+                
+                @keyframes bar-middle-normal {
+                    @include bar-middle-normal();
+                }
+            }
+            &:nth-child(4) {
+                @include animation(bar-bottom-normal);
+                position: relative;
+                
+                @mixin bar-bottom-normal() {
+                    0% {
+                        top: -$position100;
+                        transform: rotate($rotation100);
                     }
-                    @-webkit-keyframes bar-bottom-normal {
-                        @include bar-bottom-normal();
+                    50% {
+                        top: -$position75;
+                        transform: rotate($rotation75);
                     }
-                    
-                    @keyframes bar-bottom-normal {
-                        @include bar-bottom-normal();
+                    75% {
+                        top: -$position50;
+                        transform: rotate($rotation50);
                     }
+                    100% {
+                        top: $position0;
+                        transform: rotate($rotation0);
+                    }
+                }
+                @-webkit-keyframes bar-bottom-normal {
+                    @include bar-bottom-normal();
+                }
+                
+                @keyframes bar-bottom-normal {
+                    @include bar-bottom-normal();
                 }
             }
         }
